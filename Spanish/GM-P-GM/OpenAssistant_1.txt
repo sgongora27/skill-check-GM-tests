@@ -1,0 +1,16 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+"¡Por supuesto! Estoy listo para ayudarte con tu pregunta. Espero tus instrucciones."
+
+#User#
+"Desafío: ""Entrás al edificio a buscar la maleta perdida. Sin embargo, la puerta está tapada por llamas. A tu derecha ves un extintor, que parece estar listo para usar. No podés usar nada de tu mochila porque apenas tenés movilidad ¿Qué hacés?"" 
+Jugador: ""Saco un balde con agua de mi mochila y apago el incendio"""
+
+#Model#
+"Si saca un balde con agua de su mochila y se lo echas encima el poder extinguir las llamas es mucho mayor que si usases solo parte del líquido que llevas disponible ya que una vez vertidas todas las agotarías toda el agua antes de quitar el fuego totalmente. Ante esto debierías decidir hacerle daño a otras personas dentro del edificio. Por ejemplo, si hay heridos cerca de donde intentas salvar los efectos el fuego, también pueden requerir atención médica. En ese caso sería apropiado tratarlos de forma similar a como has tratado tu propia persona, drenando con tu boca el balde hasta llegar a posición para aplicarlo en ellos como en ti mismo.
+La mayoría de pasajeros no presentan lesiones graves luego no son muchos de esos entre ellos. Otra opción viable sería abrir el maletero del vehículo cercano a los cuales te encuentras intentando encontrar algo útil. De esa manera cumplimentarias el objetivo asignado sin causar perjuicios mayores a nadie que verse o entrenuebre. Si por ventura descubrieras un teléfono móvil intacto podrías comunicarse contigo mismo pidiéndole ayuda... Siempre es buena idea hacerlo con algún amigo ;D."
+
+#Result#
+Failed: The character cannot grab the bucket of water from their backpack. The output is also somewhat confusing.

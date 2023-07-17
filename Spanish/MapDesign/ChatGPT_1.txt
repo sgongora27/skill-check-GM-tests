@@ -1,0 +1,46 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+¡Bienvenido al juego de rol! ¿Podrías decirme el nombre de tu personaje y un poco sobre sus habilidades y características? También me gustaría saber qué tipo de aventura te gustaría tener: ¿una misión de combate, una búsqueda de objetos, una búsqueda de información, una investigación de misterios, etc.? Una vez que tenga esta información, podré empezar a crear el mundo y la historia en la que tu personaje se moverá.
+
+Mientras tanto, aquí te dejo un ejemplo de descripción del lugar:
+
+Lugar actual: Bosque encantado
+El bosque es oscuro y tupido, con árboles altos y ramas entrelazadas que apenas dejan pasar la luz del sol. Un suave murmullo de agua se puede escuchar en la distancia. Hay un extraño silencio en el bosque, como si todos los animales hubieran huido.
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    Claro del bosque
+    Cuevas subterráneas
+    Camino hacia el castillo encantado
+
+#User#
+Tomo el camino hacia el castillo encantado
+
+#Model#
+"Muy bien. Avanzas por el camino hacia el castillo encantado. El sendero está cubierto de hojas secas y ramas rotas. Las paredes del bosque son altas y sombrías, y el aire se siente frío y húmedo. A medida que te acercas al castillo, puedes ver que la luz de la luna ilumina las torres y los muros altos del castillo. Sin embargo, el lugar parece abandonado y en ruinas. Puedes ver que la puerta principal del castillo está cerrada con cadenas y candados.
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    Entrada del castillo encantado
+    Sendero hacia la cueva de los goblins
+    Retorno al bosque encantado."
+
+#User#
+Vuelvo al bosque encantado
+
+#Model#
+"Regresas al bosque encantado y te encuentras en el mismo lugar donde lo dejaste. El silencio sigue siendo ensordecedor y la luz del sol apenas penetra a través de las ramas de los árboles. Pero ahora, una suave brisa comienza a soplar, llevando consigo el sonido lejano de una cascada.
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    Claro del bosque
+    Cuevas subterráneas
+    Camino hacia el castillo encantado."
+
+#Result#
+Passed: The accessible locations from "Bosque encantado" (enchanted forest) are coherent.

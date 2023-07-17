@@ -1,0 +1,30 @@
+#User#
+"From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc."
+
+#Model#
+"Current place: the adventurer's room at the inn
+Accessible places: Common Room, Exit, Stairs (up/down), Rooms (various)"
+
+#User#
+I go to the common room
+
+#Model#
+"You enter the Common Room which is bustling with activity. Adventurers and patrons alike are drinking, eating, chatting, and getting ready for their next excursion. In one corner, a group of dwarves sit around a table playing games while enjoying ale and pipeweed. On the other side of the room, a human wizard can be seen practicing spells with his familiar by his side. There are several tables available where you could seat yourself and enjoy some refreshments before heading out for your adventures."
+
+#User#
+What are the accessible places from here?"
+
+#Model#
+Accessible places: Bar, Entrance, Fireplace, Lounge, Tables & Chairs, Storage Room (staff only)"
+
+#User#
+What about my room at the inn?
+
+#Model#
+"Your room at the inn is located on the second floor. To reach it, you would need to go back to your initial location (adventurer's room at the inn) then proceed towards the staircase leading to the second floor. At the landing, there is a narrow hallway that leads to your room door."
+
+#Result#
+Failed: The initial room is not accessible from the Common room.
