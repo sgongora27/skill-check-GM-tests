@@ -9,7 +9,6 @@ Challenge: "You enter the building to look for the lost suitcase. However, the d
 Player: "I take a bucket of water from my backpack and put out the fire"
 
 #Model#
-
 As the player grabs the bucket of water from their backpack, they realize it's not nearly enough to put out the flames completely. However, they quickly pour the water onto the fire, creating a small opening in the flames. The player now has a decision to make - do they try to rush through the small opening, risking getting burned by the remaining flames, or do they try to find another way in?As the player considers their options, they notice that the fire extinguisher to their right is now free from the flames. They could use it to put out the remaining flames, but they would have to move quickly before the flames spread again. Alternatively, they could try to find another entrance, but time is running out - the suitcase could be lost forever if they wait too long.If the player chooses to use the fire extinguisher, they successfully put out the flames and can now enter the building. However, the loud noise of the extinguisher might have alerted anyone inside, potentially making the situation more dangerous.If the player chooses to look for another entrance, they may find one but risk losing precious time in the process. The suitcase could be found by someone else, or they could encounter other obstacles along the way.Either way, the player's decision has consequences, and they must think carefully about their next move.
 
 #Result#
