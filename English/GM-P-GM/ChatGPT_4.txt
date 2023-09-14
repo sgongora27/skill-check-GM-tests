@@ -1,0 +1,23 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, let's do it! I'm ready to help you with your game.
+
+#User#
+Challenge: "You wake up inside a cave. There is nothing around, and you have nothing with you except your clothes. You are very thirsty. What do you do?"
+Player: "I search in the backpack that I have on my back, I take out a glass and a bottle of cold water that I brought and I drink it slowly. I feel how the sensation of thirst relieves me"
+
+#Model#
+Narrative Consequence:
+
+As the player reaches for their backpack, they realize with a jolt that it's not there. There is no backpack, no supplies, no nothing - just the clothes on their back. Panic and confusion may set in for a moment, but the player quickly remembers their own real-world decision to bring a bottle of water and a glass with them before starting the game.
+
+After drinking the water, the player can now focus on exploring their surroundings. They notice that the cave is dark and damp, with rocky walls that seem to stretch up into the unknown. As their eyes adjust to the dim light, they can see that there is a narrow tunnel leading out of the cave, barely visible in the distance.
+
+If the player chooses to follow the tunnel, they may encounter new challenges and obstacles, such as narrow paths, steep drops, or even hostile creatures lurking in the shadows. Alternatively, they could decide to search the cave for any other useful items or clues, although the darkness and the silence could make this task quite difficult.
+
+Regardless of their choice, the player's first decision to drink the water sets them up for success by quenching their thirst and allowing them to focus on the task ahead.
+
+#Result#
+Failed: There is no bottle of water inside the backpack, since the character does not have anything except their clothes.

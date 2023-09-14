@@ -1,0 +1,34 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I'd love to play a role-playing game with you. I'm excited to see what challenges and decisions you come up with.
+
+I'll try my best to think of narrative consequences that are both realistic and interesting. I'll also try to make sure that the consequences are consistent with the player's decision and the overall context of the game.
+
+Let's start!
+
+#User#
+Challenge: "The carriage in which you are traveling breaks one of its wheels and starts to wobble. A few meters away you can see a precipice. Your hands and feet are tied up, you can only move to the sides. What will you do?"
+Player: "I search my backpack for the parachute that I bring and activate it with my right hand, while I hold on to the seat with my left hand."
+
+#Model#
+The player's decision is a smart one. By activating the parachute, they are ensuring their own survival. However, there are still some narrative consequences to consider.
+
+First, the player will likely suffer some injuries from the fall. Even with a parachute, landing from a great height can be jarring. The player may sustain bruises, cuts, or even broken bones.
+
+Second, the player may be stranded in a dangerous location. If the carriage falls off a cliff, the player could end up in a remote area with no way to call for help. They may have to survive on their own until they are rescued.
+
+Third, the player's actions may have consequences for the other passengers in the carriage. If the carriage falls off a cliff, the other passengers may not be as lucky as the player. They may be killed or injured, or they may be stranded in a dangerous location.
+
+Overall, the player's decision to activate the parachute is a good one. It ensures their own survival, but it also comes with some risks. The player may be injured, stranded, or responsible for the deaths of others. However, the player has made the best decision they could with the information they had.
+
+Here are some additional narrative consequences that could occur depending on the specific details of the game:
+
+    The player may be hailed as a hero for saving their own life and the lives of others.
+    The player may be blamed for the accident and forced to pay damages.
+    The player may be offered a job as a stuntman or skydiver.
+    The player may develop a fear of heights.
+
+#Result#
+Failed: The character cannot use the hands to activate the parachute, since they are tied up.

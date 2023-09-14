@@ -1,0 +1,36 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I'd love to.
+
+I'll try my best to come up with interesting and meaningful consequences for the player's decisions. I'll also make sure that the consequences are consistent with the rules of the game and the setting.
+
+Let's start!
+
+#User#
+Challenge: "You enter the building to look for the lost suitcase. However, the door is covered in flames. To your right you see a fire extinguisher, which seems to be ready to use. You can't use anything from your backpack because you can hardly move your arms. What will you do?"
+Player: "I take a bucket of water from my backpack and put out the fire"
+
+#Model#
+Sure, here are some possible narrative consequences for the player's decision:
+
+    The player successfully puts out the fire and is able to enter the building. This is the most likely outcome, as the player has a bucket of water and the fire is not too large. However, the player may still suffer some minor burns from the flames.
+    The player fails to put out the fire and is forced to retreat. This could happen if the fire is too large or if the player does not have enough water. The player may also be injured by the flames or smoke.
+    The player accidentally spills the bucket of water and the fire spreads. This is a less likely outcome, but it could happen if the player is not careful. The player could then be trapped in the building with the fire.
+
+The specific consequences of the player's decision would depend on the details of the game, such as the size of the fire, the amount of water in the bucket, and the player's character's abilities. However, the three outcomes listed above are all possible and would have different narrative consequences.
+
+Here are some additional details that could be added to the story to make it more interesting:
+
+    The player could be a firefighter who is trying to save the building.
+    The suitcase could contain important evidence in a crime.
+    The fire could have been started by an arsonist.
+    The player could have a friend or family member trapped in the building.
+
+These details would add more suspense and excitement to the story, and they would also make the player's decision more meaningful. The player would have to weigh the risks and rewards of their decision, and they would have to consider the consequences for the people involved.
+
+I hope this helps!
+
+#Result#
+Failed: The character cannot grab the bucket of water from their backpack.

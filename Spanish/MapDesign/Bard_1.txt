@@ -1,0 +1,57 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Claro, puedo hacer eso.
+
+Lugar actual: Una gran sala de piedra. Las paredes están cubiertas de estalactitas y estalagmitas, y el suelo está cubierto de tierra y escombros. Hay una gran chimenea en el centro de la habitación, y el fuego crepitante arroja sombras extrañas sobre las paredes.
+
+Lugares accesibles desde la habitación actual:
+
+    Una puerta de madera al norte conduce a un pasillo.
+    Una puerta de piedra al este conduce a una gran sala.
+    Una escalera de piedra al sur conduce a un nivel superior.
+
+¿Qué quieres hacer?
+
+#User#
+Entro por la puerta del norte
+
+#Model#
+Abres la puerta de madera y te encuentras en un pasillo estrecho. Las paredes están hechas de piedra y el suelo está cubierto de tierra y escombros. El pasillo se extiende hacia el norte y el sur.
+
+¿Qué quieres hacer?
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual?
+
+#Model#
+Los lugares accesibles desde tu posición actual son:
+
+    Al norte, el pasillo continúa.
+    Al sur, el pasillo conduce a una habitación.
+
+¿Qué quieres hacer?
+
+#User#
+Sigo el pasillo al sur
+
+#Model#
+Sigues el pasillo al sur y llegas a una habitación pequeña. La habitación está vacía, excepto por una mesa en el centro de la habitación. Sobre la mesa hay un pergamino.
+
+¿Qué quieres hacer?
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual?
+
+#Model#
+Los lugares accesibles desde tu posición actual son:
+
+    Puedes volver al pasillo al norte.
+    Puedes examinar el pergamino en la mesa.
+
+#Result#
+Failed: The southern door should lead to the starting location, but the description of both rooms are not coherent.

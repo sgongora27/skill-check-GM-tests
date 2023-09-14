@@ -1,0 +1,15 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+Sí, con gusto puedo ayudarte a imaginar una conversación basada en los resultados de tu game de rol. Estaré encantado de consultarle al personaje ficticio y su entorno para responder a tus preguntas. Cuéntame más sobre el escenario e intentaré darte una buena experiencia como si leyeras un libro o veías una película
+
+#User#
+Desafío: "Despertás dentro de una caverna. No hay nada alrededor, ni llevás nada contigo excepto tu ropa. Tenés mucha sed. ¿Qué hacés?"
+Jugador: "Busco en la mochila que tengo en la espalda, saco un vaso y una botella de agua fría que traía y la bebo despacio. Siento cómo se me alivia la sensación de sed"
+
+#Model#
+Después de llevar a cabo esta acción, el jugador habrá disminuido significativamente sus probabilidades de sobrevivir durante mucho tiempo. Al ser una caverna sin salida aparente, necesitará algún tipo de herramienta o elemento externos para escapar. Teniendo esto en cuenta, si el jugador logra conseguir un objeto apropiado con el cual romper su confinamiento e intentar alcanzar zonas habitables; entonces puede aumentar sus expectativas de supervivencia de manera considerable. En caso contrario, solo dependerán del destino de tal eventualidad por completo aleatoria
+
+#Result#
+Failed: There is no bottle of water inside the backpack, since the character does not have anything except their clothes. Also the output is confusing and nonsensical.

@@ -1,0 +1,15 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Yes, sure! Go ahead.
+
+#User#
+Challenge: "You wake up inside a cave. There is nothing around, and you have nothing with you except your clothes. You are very thirsty. What do you do?"
+Player: "I search in the backpack that I have on my back, I take out a glass and a bottle of cold water that I brought and I drink it slowly. I feel how the sensation of thirst relieves me"
+
+#Model#
+Narrative consequence: As the player searches their backpack and finds a glass and a bottle of cold water, they feel relief knowing that they can quench their thirst. They proceed to pour themselves some water, taking slow sips as they savor every drop. With each passing moment, their sense of thirst subsides until finally, they feel fully satisfied and ready for whatever adventure lies ahead.
+
+#Result#
+Failed: There is no bottle of water inside the backpack, since the character does not have anything except their clothes.

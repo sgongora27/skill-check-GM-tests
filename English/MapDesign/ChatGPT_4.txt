@@ -1,0 +1,50 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+As an RPG game master, I'm happy to take on this new role and create an exciting adventure for you!
+
+Current place: You find yourself standing at the entrance of a dark and ominous cave, with the sound of dripping water echoing from within. The air is damp and musty, and a chill runs down your spine as you take your first steps inside.
+
+Accessible places from the current place:
+
+    The main tunnel: a dimly lit passage that leads deeper into the heart of the cave.
+    A small alcove: to your left, there's a narrow opening that leads to a small alcove, barely big enough to fit one person.
+    The entrance: you can always turn back and leave the cave, but who knows what treasures or dangers lie ahead.
+
+Where would you like to go first?
+
+#User#
+If I'm standing at the entrance of the cave, why is the entrance a possible place to go?
+
+#Model#
+"My apologies for the confusion. You're correct that the entrance shouldn't be listed as an accessible place from the entrance of the cave. Let me provide an updated list of accessible places based on your current position:
+
+Current place: You stand at the beginning of a dark and ominous cave, with the sound of dripping water echoing from within. The air is damp and musty, and a chill runs down your spine as you take your first steps inside.
+
+Accessible places from the current place:
+
+    The main tunnel: a dimly lit passage that leads deeper into the heart of the cave.
+    A small alcove: to your left, there's a narrow opening that leads to a small alcove, barely big enough to fit one person.
+
+Please let me know which direction you'd like to head towards.
+
+#User#
+I want to explore the heart of the cave
+
+#Model#
+Great choice! You start walking down the main tunnel, with each step echoing loudly in the cavernous space. As you venture deeper into the cave, you notice that the walls are covered in strange symbols and markings, some of which seem to glow faintly in the dim light.
+
+Accessible places from the current place:
+
+    The main tunnel continues to wind its way through the cave, with no clear end in sight.
+    A narrow crevice: to your right, you spot a small crevice in the wall that looks like it might lead to a hidden chamber.
+    A pool of water: up ahead, you see a small pool of water that reflects the dim light from your torch.
+
+Where would you like to go next?
+
+#Result#
+Failed: The entrance of the cave is not listed as an accessible place.

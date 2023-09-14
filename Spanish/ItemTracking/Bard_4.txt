@@ -1,0 +1,70 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en el sótano de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+Estás en el sótano de tu casa, un lugar oscuro y polvoriento. Las paredes están cubiertas de estantes y cajas, y el suelo está lleno de viejos muebles y electrodomésticos. En medio del caos, hay una vieja mochila. La abres y encuentras:
+
+    Un mapa de la ciudad
+    Una linterna
+    Una navaja
+    Una cuerda
+    Un botiquín de primeros auxilios
+    Una bolsa de comida
+    Una botella de agua
+    Una túnica negra
+    Una capucha negra
+    Una máscara negra
+
+También hay una nota en la mochila. Dice:
+
+"Si estás leyendo esto, es porque estás en problemas. Te han seguido y estás en peligro. Usa este equipo para escapar y encontrar un lugar seguro para esconderte. No te detengas hasta que estés seguro."
+
+Te pones la túnica, la capucha y la máscara, y te preparas para escapar. Cierras la mochila y te diriges a la puerta del sótano. Antes de salir, echas un último vistazo a la habitación. Te da nostalgia, pero sabes que no puedes quedarte.
+
+Abre la puerta y entra en la oscuridad. Cierras la puerta detrás de ti y te sumerges en la noche.
+
+#User#
+Agarro la linterna y la dejo en el piso
+
+#Model#
+Agarra la linterna y la deja caer al suelo. La luz se apaga y te encuentras en la oscuridad. Escuchas un ruido a tu derecha y te giras rápidamente. Nada está allí.
+
+Te sientes incómodo y asustado. No sabes dónde estás ni a dónde vas. Solo sabes que tienes que escapar.
+
+Te levantas y te diriges a la puerta. La abres y sales al exterior. Estás en un callejón oscuro y vacío. No hay nadie a la vista.
+
+Respiras hondo y te diriges a la calle principal. La luz del sol te deslumbra y te sientes un poco mejor.
+
+Sabes que todavía estás en peligro, pero también sabes que ahora estás un paso más cerca de la seguridad.
+
+Empiezas a caminar por la calle, sin saber a dónde vas. Solo sabes que tienes que seguir adelante.
+
+#User#
+¿Qué tengo en mi mochila?
+
+#Model#
+En tu mochila tienes:
+
+    Un mapa de la ciudad
+    Una linterna
+    Una navaja
+    Una cuerda
+    Un botiquín de primeros auxilios
+    Una bolsa de comida
+    Una botella de agua
+    Una túnica negra
+    Una capucha negra
+    Una máscara negra
+
+También hay una nota en la mochila. Dice:
+
+"Si estás leyendo esto, es porque estás en problemas. Te han seguido y estás en peligro. Usa este equipo para escapar y encontrar un lugar seguro para esconderte. No te detengas hasta que estés seguro."
+
+#User#
+¿Por qué tengo una linterna si la dejé en el piso?
+
+#Model#
+Estás en lo cierto, no tienes una linterna. La dejaste caer en el suelo del sótano. Lo siento por el error.
+
+#Result#
+Failed: The "linterna" is stil inside the backpack.

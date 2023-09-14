@@ -1,0 +1,19 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Lugar actual: Entrada al Templo Sagrado del Bosque Encantado (el único punto de acceso)
+Lista de todos los lugares accesibles desde el lugar actual: El interior del templo
+Cuando entres en el Templo Sagrado, verás una impresionante construcción hecha por los bosquespaños con muchos aspectos mágicos y artísticos. Hay paredes hechas completamente de ramitas y hojas. La puerta está flanqueada por dos estatuas talladas de venados, y suelen haber carruajes que lleguen ahí, pero pueden ser difíciles de manejar dentro debido a su tamaño
+
+#User#
+Entro al interior del templo
+
+#Model#
+Al entrar en el interior del templo, ves una estructura arquitectónica magnífica en el corazón del bosque. Las paredes están hechas principalmente de raíz, madera roída y troncos, aunque también se nota una gran influencia del arte arcano que tiene elementos muy parecidos al artefacto humanoide. Los templos son considerados "los pulmones" de las regiones donde habitan los bosquestornostolombrios. El diseño es bastante similar en todas partes. No hay más lugares accesibles desde aquí.
+
+#Result#
+Failed: The starting location ("entrada al templo") is not listed as an accessible place from the temple.

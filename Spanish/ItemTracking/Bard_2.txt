@@ -1,0 +1,84 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en el baño de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+Claro, puedo hacer eso.
+
+Estás en el baño de tu casa, mirando tu mochila. Es una mochila grande y negra, hecha de material resistente. Está llena de equipo, incluyendo:
+
+    Una espada larga
+    Un escudo
+    Una armadura de placas
+    Un cinturón de herramientas
+    Una bolsa de raciones
+    Una cantimplora de agua
+    Una linterna
+    Una brújula
+    Un mapa
+    Una colección de pociones y hechizos
+
+Has estado preparando esta aventura durante meses. Has entrenado con tu espada, has forjado tu armadura y has estudiado tus hechizos. Estás listo para lo que sea que venga.
+
+Cierras tu mochila y te abres camino a la puerta. El mundo te espera.
+
+#User#
+Agarro el mapa y lo dejo en el suelo
+
+#Model#
+Recoges el mapa y lo dejas en el suelo. Lo miras fijamente, tratando de descifrar las líneas y símbolos. Nunca has visto un mapa como este antes. Parece que está dibujado en un lenguaje que no entiendes.
+
+Intentas descifrar el mapa durante horas, pero no consigues entender nada. Finalmente, te rindes y te acuestas. Te quedas dormido pensando en el mapa y en lo que podría significar.
+
+A la mañana siguiente, te despiertas con una idea. Decides llevar el mapa a la biblioteca del pueblo. Quién sabe, tal vez alguien allí pueda ayudarte a entenderlo.
+
+Caminas hasta la biblioteca y pides ayuda al bibliotecario. Él mira el mapa y frunce el ceño. "Nunca he visto nada como esto antes", dice. "Pero creo que puedo ayudarte a traducirlo".
+
+El bibliotecario pasa el resto del día trabajando en el mapa. Finalmente, a última hora de la tarde, te entrega una traducción.
+
+El mapa es un mapa de un reino antiguo. Se dice que este reino está lleno de tesoros y maravillas. Pero también se dice que está maldito.
+
+El bibliotecario te advierte que no vayas al reino. Dice que es un lugar peligroso y que nunca volverás.
+
+Pero tú estás decidido a ir. Quieres ver el reino por ti mismo y encontrar los tesoros que se dice que están enterrados allí.
+
+Agradeces al bibliotecario por su ayuda y sales de la biblioteca. Estás listo para emprender tu viaje al reino antiguo.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+¿Qué tengo en mi mochila?
+
+#Model#
+Según lo que hemos hablado hasta ahora, tienes lo siguiente en tu mochila:
+
+    Una espada larga
+    Un escudo
+    Una armadura de placas
+    Un cinturón de herramientas
+    Una bolsa de raciones
+    Una cantimplora de agua
+    Una linterna
+    Una brújula
+    Un mapa
+    Una colección de pociones y hechizos
+
+También tienes un mapa del reino antiguo, pero no sabemos lo que contiene.
+
+#User#
+¿El mapa de mi mochila y el del reino antiguo son diferentes?
+
+#Model#
+Sí, el mapa de tu mochila y el del reino antiguo son diferentes. El mapa de tu mochila es un mapa general del mundo, mientras que el mapa del reino antiguo es un mapa más detallado de un área específica del mundo. El mapa del reino antiguo muestra la ubicación de varios lugares importantes, como ciudades, pueblos, ríos y montañas. También muestra la ubicación de varios peligros, como monstruos, trampas y monstruos.
+
+El mapa del reino antiguo es una herramienta valiosa para cualquier aventurero que quiera explorar el reino antiguo. Te ayudará a encontrar tu camino, evitar peligros y encontrar tesoros."
+
+#User#
+Pero el mapa que le llevé al bibliotecario era el que tenía en la mochila. Entonces el mapa de mi mochila y el del reino tienen que ser el mismo
+
+#Model#
+Tienes razón. El mapa que le llevaste al bibliotecario era el que tenías en tu mochila. Por lo tanto, el mapa de tu mochila y el del reino son el mismo. El bibliotecario simplemente lo tradujo al idioma que entendías.
+
+El mapa es una herramienta valiosa para tu aventura. Te ayudará a encontrar tu camino, evitar peligros y encontrar tesoros. Te recomiendo que lo lleves siempre contigo cuando viajes.
+
+#Result#
+Failed: The output cannot distinguish between the mentioned maps.

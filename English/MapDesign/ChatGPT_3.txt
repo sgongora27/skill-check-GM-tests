@@ -1,0 +1,53 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Welcome adventurer! I am ChatGPT, your RPG game master. Please tell me about your character and their quest, so we can begin the adventure.
+
+Current place: You find yourself in a dimly lit tavern, with a smoky atmosphere and a lively crowd. The bar is filled with rowdy patrons, and the sound of clinking glasses and boisterous laughter fills the air.
+A list of all the accessible places from the current place:
+
+    The bar counter
+    The gaming area, where patrons are playing dice games and card games
+    The private room, where shady deals are being made in hushed tones
+    The back door, leading to the back alley
+
+What would you like to do?
+
+#User#
+I open the back door
+
+#Model#
+You push your way through the crowd towards the back door. As you reach the door, the noise from the tavern fades away, replaced by the sound of the night. You step outside into the cool air of the alley, dimly lit by a few flickering lanterns.
+
+Current place: The alley is narrow, with high walls on either side, and is filled with the scent of garbage and stale food. The darkness is punctuated by a few dimly lit lanterns hanging from the walls.
+A list of all the accessible places from the current place:
+
+    The back entrance to the tavern
+    A small door leading to a dark alleyway
+    A set of stairs leading up to a rooftop
+    A dead end alleyway
+
+What would you like to do?
+
+#User#
+I go into the tavern again
+
+#Model#
+You push your way back through the back door and into the noisy tavern once again. The smell of stale ale and sweaty patrons overwhelms your senses as you step back into the dimly lit tavern.
+
+Current place: The lively tavern is filled with boisterous patrons, rowdy conversations, and the sound of clinking glasses. The barkeep is serving drinks to customers at the counter, and the gaming area is bustling with activity.
+A list of all the accessible places from the current place:
+
+    The bar counter
+    The gaming area, where patrons are playing dice games and card games
+    The private room, where shady deals are being made in hushed tones
+    The back door, leading to the back alley
+
+What would you like to do?
+
+#Result#
+Passed: The accessible places from the tavern are coherent.

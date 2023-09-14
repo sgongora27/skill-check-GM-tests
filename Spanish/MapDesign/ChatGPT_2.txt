@@ -1,0 +1,57 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+¡Genial! Me encanta ser el director de juego en juegos de rol. Cuéntame un poco sobre tu personaje para poder comenzar a crear una aventura adecuada para ti. ¿Qué tipo de personaje eres? ¿De qué raza eres? ¿Cuál es tu clase y habilidades? ¿Hay algún objetivo en particular que tu personaje tenga en mente? También, ¿en qué mundo o universo se desarrollará la aventura?
+
+#User#
+Por favor, decide cualquier detalle que necesites saber.
+
+#Model#
+¡Entendido! Para comenzar la aventura, imagina que te encuentras en una pequeña aldea llamada Dunmar. Eres un aventurero experimentado que ha llegado a la aldea en busca de trabajo y aventuras emocionantes. Mientras caminas por las calles de la aldea, te encuentras con un anciano que parece necesitar ayuda.
+
+Tu personaje es un elfo arquero, hábil con el arco y la flecha y entrenado en el arte del sigilo. Eres un viajero solitario y misterioso, pero tu sentido de la justicia te lleva a ayudar a aquellos que lo necesitan.
+
+El mundo en el que se desarrollará la aventura es un mundo de fantasía medieval lleno de magia, criaturas místicas y peligrosas. El mundo es vasto y hay muchas aventuras emocionantes esperando ser descubiertas.
+
+¿Estás listo para comenzar?
+
+#User#
+Sí
+
+#Model#
+Lugar actual: Las calles de la aldea de Dunmar.
+
+Estás caminando por las calles de Dunmar, una pequeña aldea rodeada de campos de cultivo y bosques. La aldea es tranquila y pintoresca, pero parece que no está exenta de problemas. Los aldeanos parecen tensos y preocupados, y algunos miran con recelo a los forasteros.
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    La plaza del mercado
+    La taberna del Hombre Sabio
+    La posada del Dragón Rojo
+    La tienda de armas y equipo
+    El bosque cercano a la aldea.
+
+
+#User#
+Entro a la taberna
+
+#Model#
+Lugar actual: La Taberna del Hombre Sabio
+
+Al entrar en la taberna, la primera impresión que te da es la de un lugar acogedor y lleno de vida. Hay varias mesas ocupadas por grupos de aldeanos que conversan animadamente entre ellos, algunos bebiendo cerveza o vino. Algunos músicos tocan una melodía alegre en una esquina del local.
+
+En la barra, un hombre de mediana edad y una sonrisa amistosa te mira y te saluda cordialmente. Al parecer es el dueño del establecimiento.
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    La plaza del mercado
+    La posada del Dragón Rojo
+    La tienda de armas y equipo
+    El bosque cercano a la aldea.
+
+#Result#
+Passed: Although the exact starting location ("calles de la aldea") is not listed as an accessible place from the tavern, all the accessible places are listed.

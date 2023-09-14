@@ -1,0 +1,74 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en el sótano de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+¡Saludos aventurero! Como director de juego, puedo decirte que tu mochila contiene los siguientes elementos:
+
+    Una botella de agua: siempre es importante mantenerse hidratado durante tus aventuras.
+
+    Un botiquín de primeros auxilios: con vendas, gasas, alcohol, pinzas y algunos medicamentos básicos para tratar heridas y dolores menores.
+
+    Una linterna: te permitirá ver en la oscuridad y explorar lugares sombríos.
+
+    Un cuchillo multiusos: útil para cortar cuerdas, abrir latas o para protegerte en caso de un ataque sorpresa.
+
+    Un mapa de la zona: te ayudará a orientarte y a encontrar lugares importantes de la aventura.
+
+    Un libro de hechizos: si tu personaje tiene habilidades mágicas, este libro contiene los conjuros que puedes usar para superar los obstáculos que encuentres.
+
+    Una brújula: útil para orientarte en lugares desconocidos.
+
+    Una cuerda: te permitirá subir o bajar lugares elevados o para atar a alguien o algo.
+
+    Un trozo de pan y una manzana: para calmar el hambre en momentos de necesidad.
+
+¡Ahora estás listo para comenzar tu aventura! ¿Hacia dónde te gustaría dirigirte?
+
+#User#
+Me pongo la linterna en la cabeza para ver con más claridad
+
+#Model#
+Excelente elección, aventurero. Te pones la linterna en la cabeza y de repente todo se vuelve más brillante y nítido. Puedes ver cada rincón del sótano con claridad y precisión.
+
+Al iluminar el sótano con tu linterna, puedes ver que hay varios objetos almacenados en cajas y estanterías. También hay algunas puertas cerradas y una escalera que conduce a una trampilla en el techo.
+
+¿Qué te gustaría hacer ahora, aventurero?
+
+#User#
+¿Qué objetos tengo en la mochila?
+
+#Model#
+Te recuerdo que los objetos que tienes en tu mochila son:
+
+    Botella de agua.
+    Botiquín de primeros auxilios.
+    Linterna.
+    Cuchillo multiusos.
+    Mapa de la zona.
+    Libro de hechizos (si tu personaje tiene habilidades mágicas).
+    Brújula.
+    Cuerda.
+    Trozo de pan y una manzana.
+
+¿Te gustaría examinar alguno de ellos con más detalle o quizás utilizar alguno de estos objetos en tu exploración del sótano?
+
+#User#
+¿Qué objetos tengo en la mochila ahora?
+
+#Model#
+Lamento informarte, aventurero, pero no ha habido ningún cambio en tu mochila desde la última vez que preguntaste. Aún tienes los mismos objetos en tu mochila:
+
+    Botella de agua.
+    Botiquín de primeros auxilios.
+    Linterna.
+    Cuchillo multiusos.
+    Mapa de la zona.
+    Libro de hechizos (si tu personaje tiene habilidades mágicas).
+    Brújula.
+    Cuerda.
+    Trozo de pan y una manzana.
+
+¿Te gustaría hacer algo más con ellos o explorar el sótano de alguna otra manera?
+
+#Result#
+Failed: The "linterna" is still inside the backpack.

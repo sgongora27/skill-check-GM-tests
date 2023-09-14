@@ -1,0 +1,64 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Welcome adventurer! I am ChatGPT, your RPG game master. Please tell me a bit about your character and the type of adventure you would like to embark on.
+
+Once you provide me with that information, we can begin our journey!
+
+Current place: You find yourself standing at the entrance of a dark and foreboding forest. The trees are tall and dense, and their branches block out most of the sunlight. You can hear the sounds of wildlife in the distance, but also something sinister lurking within.
+A list of all the accessible places from the current place:
+
+    The path through the forest
+    The river running alongside the forest
+    The clearing to your left
+    The abandoned cabin to your right
+
+What would you like to do?
+
+#User#
+I want to go to the cabin
+
+#Model#
+Current place: You approach the abandoned cabin, which appears to have been left untouched for many years. The roof is sagging and the wooden walls are rotting away. The door is slightly ajar, creaking in the wind.
+A list of all the accessible places from the current place:
+
+    The forest path behind you
+    The riverbank to your left
+    The clearing ahead of you
+    The inside of the cabin
+
+What would you like to do?
+
+#User#
+I enter the cabin
+
+#Model#
+Current place: You step inside the cabin, and the musty smell of old wood and dust fills your nostrils. The interior is dark, with only a few shafts of light filtering through the gaps in the boarded-up windows. There is a layer of dirt and debris covering the floor, and cobwebs stretch across the corners of the room.
+A list of all the accessible places from the current place:
+
+    The doorway leading back outside
+    A trapdoor in the floor
+    A ladder leading up to a small loft
+    A chest against the far wall
+
+What would you like to do?
+
+#User#
+I go back outside
+
+#Model#
+Current place: You step back outside the cabin, into the clearing. The sun is shining brightly overhead, casting long shadows across the forest floor. You feel a sense of relief to be out of the dark and musty cabin.
+A list of all the accessible places from the current place:
+
+    The forest path behind you, leading deeper into the woods
+    The riverbank to your left, with the sound of rushing water in the distance
+    The clearing continues ahead of you, with the cabin behind you
+
+What would you like to do?
+
+#Result#
+Passed: Although the cabin is not listed as an explicit accessible place, it is part of the list.

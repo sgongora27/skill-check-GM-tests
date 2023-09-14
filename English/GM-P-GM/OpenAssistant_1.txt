@@ -1,0 +1,16 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Yes, I am ready! Please provide the scenario.
+
+#User#
+Challenge: "The carriage in which you are traveling breaks one of its wheels and starts to wobble. A few meters away you can see a precipice. Your hands and feet are tied up, you can only move to the sides. What will you do?"
+Player: "I search my backpack for the parachute that I bring and activate it with my right hand, while I hold on to the seat with my left hand."
+
+#Model#
+As the player searches his bag for the parachute and holds onto the seat with his other hand, you feel yourself begin to tilt forward. You catch yourself from falling and look down over the side of the moving cart where you notice the precipice getting closer by the second.
+In your right hand you now find your parachute. Do you want to unravel it so it becomes fully visible or keep searching more in your bag to maybe find something else?
+
+#Result#
+Failed: The character cannot search their bag, since their hands are tied up.

@@ -1,0 +1,55 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+¡Bienvenido al juego de rol! Soy ChatGPT, tu director de juego. ¿Podrías decirme qué tipo de aventura te gustaría jugar y describirme tu personaje? Esto me ayudará a crear una experiencia de juego personalizada y emocionante para ti.
+
+#User#
+Por favor, decide cualquier detalle que necesites saber.
+
+#Model#
+¡Genial! En ese caso, vamos a comenzar una aventura épica de fantasía. Tu personaje es un guerrero elfo llamado Arineth, que ha sido elegido por los dioses para emprender una misión peligrosa. Tu objetivo es recuperar la Espada del Sol, un arma mágica que ha sido robada del templo de los dioses. La espada es crucial para mantener el equilibrio en el mundo, y sin ella, el caos reinará.
+
+Lugar actual: estás en el pueblo de Elvandar, rodeado de edificios de madera y piedra, con calles empedradas y farolas que iluminan la noche. El aire es fresco y húmedo, y se escucha el murmullo de la gente que va y viene.
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    Templo de los dioses, en lo alto de la montaña
+    Bosque de las sombras, al este del pueblo
+    Cueva de los ladrones, al oeste del pueblo
+    Torre de los magos, al sur del pueblo
+    El camino a la capital, al norte del pueblo.
+
+#User#
+Me acerco a la entrada a la torre de los magos
+
+#Model#
+Te acercas a la Torre de los Magos, que se alza imponente ante ti. La torre tiene varias torretas en la parte superior y está hecha de piedra grisácea. Una gran puerta de madera oscura te da la bienvenida en la base de la torre.
+
+Lista de todos los lugares accesibles desde aquí:
+
+    Salón de recepción de la Torre de los Magos.
+    Escaleras hacia arriba.
+    Camino de vuelta hacia el pueblo de Elvandar.
+
+#User#
+Vuelvo al pueblo
+Regresas al pueblo de Elvandar. Ahora te encuentras en la plaza principal, donde se encuentra la fuente de la ciudad. Hay varios edificios alrededor de la plaza, incluyendo una posada, una tienda de armas y una herrería. La plaza está llena de gente que va y viene, y algunos comerciantes están vendiendo sus productos en puestos.
+
+Lista de todos los lugares accesibles desde aquí:
+
+    Posada del Roble Negro.
+    Tienda de armas de Elvandar.
+    Herrería de Elvandar.
+    Templo de los dioses, en lo alto de la montaña.
+    Bosque de las sombras, al este del pueblo.
+    Cueva de los ladrones, al oeste del pueblo.
+    Torre de los magos, al sur del pueblo.
+    El camino a la capital, al norte del pueblo.
+
+#Result#
+Failed: The accesible locations from "pueblo de Elvandar" do not match.
+Note: This is a borderline case. Although the last location ("plaza principal") is not exactly the same as the starting location ("pueblo de Elvandar"), the new accesible places ("Posada", "Tienda de Armas" and "Herrería") could be also listed from "pueblo de Elvandar".

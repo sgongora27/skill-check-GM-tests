@@ -1,0 +1,62 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Sure, I can do that. Here's the first scene:
+
+Current place: You are standing in a small clearing in the forest. The trees around you are tall and old, their branches reaching up to the sky. The sun is shining through the leaves, creating a dappled pattern on the ground. You can hear the sound of birds singing in the distance.
+
+Accessible places:
+
+    North: A path leads into the forest.
+    East: A small stream flows through the clearing.
+    South: A mountain range looms in the distance.
+    West: A cave entrance is hidden in the undergrowth.
+
+What do you do?
+
+#User#
+I go to the cave
+
+#Model#
+You push aside the undergrowth and step into the cave. The entrance is small and dark, but you can see a faint light coming from further inside. You take a deep breath and step into the darkness.
+
+Current place: You are in a dark cave. The walls are rough and uneven, and the floor is covered in a layer of dust. The air is cool and damp, and you can hear the sound of water dripping in the distance.
+
+Accessible places:
+
+    North: The cave continues into darkness.
+    East: A small passage leads off to the side.
+    South: The cave entrance is behind you.
+
+What do you do?
+
+#User#
+I leave the cave
+
+#Model#
+You step back out of the cave and into the sunlight. You take a deep breath of fresh air and look around. The forest is still and quiet, and the only sound is the chirping of birds.
+
+Current place: You are standing in the small clearing in the forest. The trees around you are tall and old, their branches reaching up to the sky. The sun is shining through the leaves, creating a dappled pattern on the ground. You can hear the sound of birds singing in the distance.
+
+Accessible places:
+
+    North: A path leads into the forest.
+    East: A small stream flows through the clearing.
+    South: A mountain range looms in the distance.
+
+What do you do now?
+
+#User#
+What's west?
+
+#Model#
+There is no place to the west. The forest ends at the edge of the clearing, and there is nothing but open land beyond. You can see a few hills in the distance, but that's it.
+
+Do you want to go to one of the other places that are accessible?
+
+#Result#
+Failed: The accessible places from the clearing in the forest do not match.

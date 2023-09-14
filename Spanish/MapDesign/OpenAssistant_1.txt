@@ -1,0 +1,36 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Lugar actual: Una habitación decorada para una fiesta de cumpleaños. Hay una mesa en el centro y varias chupetas y confeti por todo el suelo. También hay una barra en un rincón cargada de jugos y dulces.
+Puedo ir al vestíbulo, la cocina, el baño, y afuera del edificio.
+
+#User#
+Voy al baño
+
+#Model#
+Después de entrar al baño, noto que es bastante espacioso y tiene puertas separadas para hombres y mujeres. En las paredes, se ven grabados obscenos e insultantes dirigidos hacia mí. ¿Qué diablos estoy haciendo aquí? Debería haber hecho lo mismo... ¡Ya que soy el encargado de limpiar esto!
+
+#User#
+¿Qué lugares son accesibles desde el baño?
+
+#Model#
+Desde el baño solo puedo regresar a la fiesta donde está la mesa llena de dulces
+
+#User#
+Vuelvo a la fiesta
+
+#Model#
+Estoy de vuelta en la habitación de la fiesta de cumplimiento de años. ¿De qué otra manera puedo ayudarte hoy?"
+
+#User#
+¿Qué lugares son accesibles desde esta habitación de la fiesta?
+
+#Model#
+El único camino disponible parece ser un pasillo oscuro y mal iluminado, pero un letrero roto indica que antes llevaba a una biblioteca.
+
+#Result#
+Failed: The accesible locations from the "fiesta" do not match.

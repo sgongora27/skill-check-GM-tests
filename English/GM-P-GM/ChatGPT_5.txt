@@ -1,0 +1,21 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I'm happy to help with that! Let's get started.
+
+#User#
+Challenge: "An unknown man starts yelling at you in the supermarket. Since you're in a foreign country, you don't understand his language, nor can you speak it. In fact, you can't say a word, it's like you're mute. What do you do?"
+Player: "I tell him in his language to stop bothering me, and I give him many reasons."
+
+#Model#
+As the player tries to communicate with the unknown man, they quickly realize that they cannot speak the language fluently enough to convey their message. However, the man seems to understand a few words and becomes even more agitated as the player tries to reason with him. The situation escalates quickly, and the man begins to draw attention from other shoppers.
+
+As more people gather around, the player notices that some of them are starting to take the man's side, assuming that the player is causing trouble. The player's attempts to explain their side of the story only seem to make things worse, and eventually, a store employee intervenes to try and resolve the situation.
+
+Depending on how the player responds to the employee's attempts to help, the consequences can vary. If the player becomes combative or uncooperative, they may be asked to leave the store or even face legal consequences for disturbing the peace. On the other hand, if the player remains calm and cooperative, they may be able to work with the employee to find a solution that satisfies both parties.
+
+Regardless of the outcome, the player learns an important lesson about communication barriers and the challenges of navigating unfamiliar cultural contexts. They may be more cautious in similar situations in the future, or seek out resources to help them learn the local language and customs.
+
+#Result#
+Failed: It is not possible that the man understand a few words, since the character cannot speak the language.

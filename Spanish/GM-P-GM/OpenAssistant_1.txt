@@ -2,15 +2,18 @@
 Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
 
 #Model#
-"¡Por supuesto! Estoy listo para ayudarte con tu pregunta. Espero tus instrucciones."
+Sí, está claro. Estoy aquí para ayudarte en todo lo que necesites. 😊
 
 #User#
-"Desafío: ""Entrás al edificio a buscar la maleta perdida. Sin embargo, la puerta está tapada por llamas. A tu derecha ves un extintor, que parece estar listo para usar. No podés usar nada de tu mochila porque apenas tenés movilidad ¿Qué hacés?"" 
-Jugador: ""Saco un balde con agua de mi mochila y apago el incendio"""
+Desafío: "El carruaje en el que van viajando rompe una de sus ruedas y empieza a tambalearse. A pocos metros se ve un precipicio. Estás atado de manos y pies, solo podés moverte hacia los costados. ¿Qué hacés?"
+Jugador: "Busco en mi mochila el paracaídas que traigo y lo activo con mi mano derecha, mientras con la izquierda me sostengo del asiento"
 
 #Model#
-"Si saca un balde con agua de su mochila y se lo echas encima el poder extinguir las llamas es mucho mayor que si usases solo parte del líquido que llevas disponible ya que una vez vertidas todas las agotarías toda el agua antes de quitar el fuego totalmente. Ante esto debierías decidir hacerle daño a otras personas dentro del edificio. Por ejemplo, si hay heridos cerca de donde intentas salvar los efectos el fuego, también pueden requerir atención médica. En ese caso sería apropiado tratarlos de forma similar a como has tratado tu propia persona, drenando con tu boca el balde hasta llegar a posición para aplicarlo en ellos como en ti mismo.
-La mayoría de pasajeros no presentan lesiones graves luego no son muchos de esos entre ellos. Otra opción viable sería abrir el maletero del vehículo cercano a los cuales te encuentras intentando encontrar algo útil. De esa manera cumplimentarias el objetivo asignado sin causar perjuicios mayores a nadie que verse o entrenuebre. Si por ventura descubrieras un teléfono móvil intacto podrías comunicarse contigo mismo pidiéndole ayuda... Siempre es buena idea hacerlo con algún amigo ;D."
+Las consecuencias narrativas serían las siguientes:
+
+    Al activar su paracaídas, el jugador logra detener la caída vertiginosa del carruaje antes de llegar al borde del precipicio. El paracaídas desplegado le permite descender lentamente y evitar daños graves durante el descenso.
+    Después de aterrizar sobre un terreno seguro, libera sus manos del asiento, pero deja sus dedos presionando los interruptores correctos y sujeta su teléfono para mantenerse conectado durante toda la situación.
+    Mientras espera la llegada de servicios de emergencia y rescatistas, el jugador permanece alerta e interactúa con otros peatones cercanos en busca de contactos útiles por radio o internet, según sus disponibilidades actualizadas y restricciones geográficas. Cada vez más frecuente es el uso de dispositivos autónomos para acceso a redes sociales que requieren entrada de datos sensibles. En algún punto le preguntan si quisiera subir el volumen, así como orientarlo. Una vez finalizada la llamada, intenta devolver el aparato a su sitio aunque sin éxito. Finalmente toma nota sobre cómo no todos son iguales ni tenemos habilidades parecidas. Los dispositivos de comunicaciones ya tienen características variables para distintos usuarios y condiciones (por ejemplo altitud), además de tener incorporados sistemas de reconocimiento del público objetivo para mostrar publicidad adecuada. El jugador también hace notar que existen alternativas tradicionales para recibir información personalizada basándose en hábitos y contextura, como periódicos, folletos y canales televisivos específicos... En el caso del mundo real, algunos medios impresos han ido evolucionando, transformándose u oponiéndose a Internet. En un futuro posible, veremos cuántos serán estos medios que se adapten para proporcionar experiencias individualizadas e hiperconectadas, si es que las hubiere; así como cuál puede ser la relación entre este tipo de experiencias masivas e individualizadas respectivamente... Si bien existía bastante interacción con el resto de personas, no hay indicios de que nadie trate de usar ninguna otra forma de comunicación por no poder tenerla. Señaló que cuando alguien tiene algo interesante para contarnos, acostumbra a salirse de cualquier protocolo establecido... ¿Cómo puedo ayudarte yo a ti?
 
 #Result#
-Failed: The character cannot grab the bucket of water from their backpack. The output is also somewhat confusing.
+Failed: The character cannot use the hands to activate the parachute, since they are tied up.

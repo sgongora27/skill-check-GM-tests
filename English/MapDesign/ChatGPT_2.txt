@@ -1,0 +1,34 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Greetings, adventurer! As the RPG game master, I am pleased to guide you on your journey.
+
+Current place: You find yourself in a bustling town square filled with vendors hawking their wares and townsfolk going about their daily business. The smell of freshly baked bread wafts through the air, and you can hear the clanging of a blacksmith's hammer in the distance.
+
+Accessible places:
+
+    The town marketplace, filled with various stalls and vendors selling a wide array of goods.
+    The blacksmith's shop, where you can purchase weapons and armor or have your own equipment repaired or forged.
+    The local tavern, where you can rest and gather information from the locals over a mug of ale.
+    The town hall, where you can speak with the local authorities and potentially take on quests or jobs for the town.
+    The town gate, leading out of the town and into the surrounding wilderness.
+
+#User#
+I go into the tavern
+
+#Model#
+As you step into the tavern, the warm and cozy atmosphere immediately envelops you. The room is filled with the sound of chatter and laughter, and the smell of roasted meat and spiced ale wafts through the air. The tavern is dimly lit, with a large fireplace crackling in the corner.
+
+Accessible places:
+
+    The bar, where you can order food and drinks from the bartender.
+    The tables, where patrons are seated and enjoying their meals or drinks.
+    The back room, where private meetings or negotiations can take place.
+    The stairs, leading up to the rooms available for rent to travelers.
+
+#Result#
+Failed: The town square is not accessible from the tavern.

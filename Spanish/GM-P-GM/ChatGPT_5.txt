@@ -1,0 +1,20 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+¡Sí, claro! Estoy listo para ayudarte a resolver tu juego de rol. Adelante con el desafío y la decisión del jugador.
+
+#User#
+Desafío: "Un hombre desconocido empieza a gritarte dentro del supermercado. Como estás en un país extranjero no entendés su idioma ni tampoco podés hablarlo. De hecho no sabés decir ni la más mínima expresión, es como si fueras mudo ¿Qué hacés?"
+Jugador: "Le digo en su lengua que deje de molestarme, y le doy muchas razones."
+
+#Model#
+Como tu personaje no conoce el idioma del hombre desconocido, lo más probable es que no logre comunicarle nada, lo que podría empeorar la situación. Además, si le gritas en su idioma sin entender lo que estás diciendo, es posible que el hombre se sienta aún más agitado y hostil.
+
+Podrías intentar comunicarte con el hombre a través de gestos o señales, como mostrarle las manos en señal de paz, o intentar alejarte de él para evitar un conflicto. También podrías buscar ayuda de algún empleado del supermercado o de un guardia de seguridad, quienes podrían actuar como mediadores y tratar de resolver el conflicto.
+
+Sin embargo, si decides enfrentar al hombre y tratar de comunicarte con él en su idioma, es posible que obtengas alguna respuesta. Si logras persuadirlo para que se calme y deje de gritarte, podrías continuar tu compra en paz. Pero si el hombre sigue siendo hostil, es posible que necesites buscar ayuda o abandonar el supermercado para evitar una confrontación más peligrosa.
+
+#Result#
+Passed: The narrated outcomes take into account that the player does not know the language that the man speaks.
+Note: However, in the last paragraph, the model says that it could be possible to say something in the language.

@@ -1,0 +1,15 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Of course! I am ready for your input. Please provide the details of the scenario so we can begin our adventure together.
+
+#User#
+Challenge: "An unknown man starts yelling at you in the supermarket. Since you're in a foreign country, you don't understand his language, nor can you speak it. In fact, you can't say a word, it's like you're mute. What do you do?"
+Player: "I tell him in his language to stop bothering me, and I give him many reasons."
+
+#Model#
+The man stops shouting and looks puzzled. He stares at you intently as if he wants to hear more, but since you pretended to know how to communicate, he remains silent until someone else explains him the truth via hand gestures (or other non verbal cue)."
+
+#Result#
+Passed: The narrated outcomes take into account that the player does not know the language that the man speaks.

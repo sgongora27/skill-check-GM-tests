@@ -1,0 +1,46 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Great! As an RPG game master, I'm excited to guide you through an adventure. Please tell me more about your character, such as their name, race, class, and any other relevant information.
+
+Current place: You find yourself standing at the entrance of a dark and damp cave. The entrance is surrounded by tall trees, and the sound of running water can be heard in the distance.
+
+Accessible places:
+
+    Inside the cave
+    Back to the forest
+    Along the river
+
+#User#
+I want to explore the cave
+
+#Model#
+As you step inside the cave, you notice that the air becomes cooler and the light from the outside fades away. You can see a few rocks scattered on the ground and some bats flying overhead. The walls are damp, and the sound of water dripping echoes throughout the cave.
+
+Current place: Inside the cave
+
+Accessible places:
+
+    The cave entrance
+    Deeper into the cave
+
+#User#
+I want to go outside
+
+#Model#
+You step back outside the cave and find yourself back at the entrance. The sunlight is bright and warm, and you can hear birds chirping in the trees.
+
+Current place: Outside the cave
+
+Accessible places:
+
+    Inside the cave
+    Along the river
+    Deeper into the forest
+
+#Result#
+Passed: The accessible places from the cave entrance are coherent.

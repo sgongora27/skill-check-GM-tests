@@ -1,0 +1,16 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+¡Sí, está claro! Estoy lista para ayudarte con el juego de rol. ¡Adelante!
+
+#User#
+Desafío: "Estás completamente desnudo atado a la pared. El guardia entra a la habitación y te dice que va darte de comer a los jabalíes ¿Qué hacés?"
+Jugador: "Con mucho esfuerzo empiezo a sacarme la ropa. Cuando tengo el pantalón cerca de la boca, muevo rápido mi cabeza como para envolverlo en él y que se asuste"
+
+#Model#
+Consecuencias narrativas:
+El guardia parece sorprendido por la inesperada acción del jugador, lo que le da tiempo para tomarlo por sorpresa. Al ver que el jugador intenta envolverlo con su ropa, el guardia retrocede y choca con algo detrás de él, lo que lo hace perder el equilibrio y caer al suelo. El jugador aprovecha la oportunidad para desatarse de la pared y recoger la llave que estaba en el bolsillo del guardia. Sin embargo, antes de poder escapar de la habitación, se da cuenta de que los jabalíes están cada vez más cerca. El jugador tiene que decidir rápidamente si usa la llave para abrir la puerta y huir, o si intenta luchar contra los jabalíes con lo que tenga a mano.
+
+#Result#
+Failed: The character is completely naked. There is no way the character can take off their clothes.

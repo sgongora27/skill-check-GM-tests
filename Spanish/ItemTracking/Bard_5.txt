@@ -1,0 +1,70 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en el sótano de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+Claro, puedo hacer eso.
+
+Te encuentras en el sótano de tu casa, un lugar oscuro y polvoriento que no has visitado en años. La única luz proviene de una pequeña ventana alta, y el aire está lleno del sonido de las ratas que corren por los muros.
+
+Buscas en tu mochila y encuentras las siguientes cosas:
+
+    Una linterna
+    Una caja de fósforos
+    Una navaja
+    Una brújula
+    Una bolsa de comida
+    Una botella de agua
+    Un mapa del sótano
+    Un diario
+
+Sientes que estás preparado para lo que sea que te depare el sótano. Estás listo para comenzar tu aventura.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+Agarro el diario y lo dejo en el suelo.
+
+#Model#
+El diario es viejo y polvoriento, y las páginas están amarillentas y agrietadas. El título está escrito en una caligrafía elegante: "Diario de un hombre muerto".
+
+Abre el diario y comienza a leer. Las primeras páginas están llenas de entradas de diario sobre las cosas mundanas de la vida: el trabajo, la familia, los amigos. Pero a medida que avanzas en el diario, las entradas se vuelven más oscuras y más siniestras. El escritor habla de visiones, voces y sueños horribles. Habla de una presencia maligna que lo acecha.
+
+Cerras el diario y lo devuelves al suelo. Sientes un escalofrío por la espalda. No sabes qué creer sobre el diario, pero no puedes negar que te ha dado escalofríos.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+¿Qué hay en mi mochila?
+
+#Model#
+En tu mochila hay las siguientes cosas:
+
+    Una linterna
+    Una caja de fósforos
+    Una navaja
+    Una brújula
+    Una bolsa de comida
+    Una botella de agua
+    Un mapa del sótano
+    Un diario
+
+¿Quieres que te diga algo más sobre alguna de estas cosas?
+
+#User#
+¿Qué hay en el suelo?
+
+#Model#
+El suelo del sótano está cubierto de polvo y telarañas. Hay algunas cajas viejas y muebles viejos apilados en las esquinas. La única luz proviene de una pequeña ventana alta en la pared.
+
+Veo que tienes una linterna en tu mochila. ¿Quieres usarla para explorar el sótano?
+
+#User#
+¿Dónde está el diario?
+
+#Model#
+El diario está en el suelo, donde lo dejaste. Es un libro pequeño y viejo, con una cubierta de cuero desgastada. Las páginas están amarillentas y agrietadas, y el texto está escrito en una caligrafía elegante.
+
+¿Quieres leer el diario?
+
+#Result#
+Failed: The "diario" is still inside the backpack, but also on the ground.

@@ -1,0 +1,31 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Acto 1 - Encuentro en el mercado local
+Precioso Mercado Local! Tiene una gran cantidad de comerciantes donde encontrar lo que buscas y puedes incluso socializar con ellos. Además contamos aquí con las siguientes salidas: calle principal, plaza ceremonial, y cueva secreta. ¿Deseas continuar?
+
+#User#
+¿Qué lugares son accesibles desde el mercado local?
+
+#Model#
+Hay cuatro opciones disponibles desde este punto inicial: calle principal, plaza ceremonial, cueca secreta y atrio del templo. ¿Tienes alguna preferencia respecto al destino?.
+
+#User#
+Voy a la plaza
+
+#Model#
+¡Entiendo! Asumiré que eligiste ir a la Plaza Ceremonial. ¿Deberías tomar algo más antes de tu viaje allí?
+
+#User#
+¿Qué lugares son accesibles desde la plaza ceremonial?
+
+#Model#
+Claro, puedo ayudarte. Hay tres opciones desde la plaza ceremonial: calle central, palacio real y tienda alquilera. Por favor, indica cuál deseas visitar.
+
+#Result#
+Failed: The starting location ("mercado local") is not listed as an accessible place from the "plaza".
+Note: The accessible locations from "mercado local" are listed two times and they do not match either.

@@ -1,0 +1,8 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en el sótano de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+Lo primero es preguntar tu nombre y cómo se pronuncia. Luego me dará una breve descripción de su entorno. Finalmente quisieras consultarme cual era su tarea del día antes de salir."
+
+#Result#
+Failed: The model cannot follow the instructions.

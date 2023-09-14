@@ -1,0 +1,38 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+¡Hola! Soy ChatGPT, tu director de juego de rol. Estoy emocionado de ayudarte a crear una aventura épica. ¿Podrías contarme un poco sobre tu personaje y qué tipo de aventura estás buscando?
+
+Lugar actual: Plaza principal de la ciudad
+Descripción del lugar actual: Estás de pie en el centro de la plaza principal de la ciudad. A tu alrededor, hay edificios altos y coloridos con balcones decorativos y ventanas adornadas. En el medio de la plaza hay una fuente grande con un monumento en el centro. La gente está caminando por todas partes, algunos haciendo compras en los puestos de mercado, otros charlando con amigos en las cafeterías cercanas.
+
+Lista de todos los lugares accesibles desde la plaza principal:
+
+    Mercado local
+    Cafeterías cercanas
+    Ayuntamiento
+    Biblioteca pública
+    Templo local
+    Calles residenciales
+
+#User#
+Entro a la bilbioteca
+
+#Model#
+Lugar actual: Biblioteca pública
+Descripción del lugar actual: Estás en la entrada de la biblioteca pública. A tu alrededor, hay estantes llenos de libros y mesas donde la gente está estudiando o leyendo en silencio. El suave sonido de las páginas siendo volteadas se mezcla con el silencio general. Hay un mostrador cerca de la entrada, detrás del cual está el bibliotecario.
+
+Lista de todos los lugares accesibles desde la biblioteca:
+
+    Sección de ficción
+    Sección de no-ficción
+    Sala de estudio en grupo
+    Sala de conferencias
+    Patio trasero de la biblioteca.
+
+#Result#
+Failed: The starting location ("plaza principal de la ciudad") is not listed as an accessible place from the library.

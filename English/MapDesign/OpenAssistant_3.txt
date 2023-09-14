@@ -1,0 +1,41 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Current Place: You find yourself standing in front of a small shop called "Miracle Spell Supplies". A sign above the door reads "Supply your magical needs here."
+Accessible Places from the current place:
+
+    Shop Entrance (North) - Leads into the shop's interior where customers can browse and purchase magical items
+    Street Corner (Southwest) - Leads onto the street corner outside the store
+    Building Interior (West/East?) - Assuming there are other rooms within the same building? Can go East/West depending. Not specified which direction would lead closer towards our objective or NPC we seek.
+    Alleyway Exit (Southeast) - Goes down an alley behind some buildings that leads south out of sight of the main road
+    Civic Center Plaza (northeast) - Could potentially take us around town
+
+#User#
+I enter the shop
+
+#Model#
+As you step inside the shop, you notice shelves lining the walls filled with spellbooks, potion ingredients, magical tools, and more. An old man stands behind the counter greeting customers as they come in and out. There seems to be a few patrons milling about looking at the wares. Is there anyone else present that catches your eye or curiosity that could aid in finding an expert sage for ancient ruin excavation?
+
+#User#
+I leave the shop
+
+#Model#
+As you exit the shop, you find yourself back on the bustling street corner. Which direction would you like to head next? North to continue exploring buildings nearby or South towards residential areas?
+
+#User#
+What are the accessible places from here?
+
+#Model#
+Accessible directions and locations visible from the street corner include:
+
+    North - Main Road leading through town center
+    South - Residential area further away from commercial district
+    West - Buildings along the same block
+    Southeast - Down the same sidewalk with less traffic by smaller homes and businesses (or maybe residential areas if not many nearby?)
+
+#Result#
+Failed: The "Miracle Spell Supplies" shop is not listed as an accesible location and other locations do not match.

@@ -1,0 +1,45 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en la cocina de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+¡Hola aventurero! ¡Bienvenido a mi juego de rol! Me encargaré de guiar tu camino y de crear una experiencia única y emocionante para ti.
+
+Comencemos por lo importante, ¿cómo se llama tu personaje y qué habilidades tiene? Con esa información, podré ajustar la aventura para que se adapte mejor a tus habilidades y personalidad.
+
+En cuanto a tu pregunta, en tu mochila encuentras los siguientes elementos:
+
+    Botella de agua
+    Barra de granola
+    Linterna
+    Navaja multiusos
+    Mapa de la zona
+    Silbato de emergencia
+
+¿Qué harás a continuación en la cocina de tu casa? ¡La aventura te espera!
+
+#User#
+Agarro el mapa de la mochila y lo quemo usando un encendedor de la cocina. 
+
+#Model#
+Como director de juego, me veo en la obligación de advertirte que quemar el mapa podría tener consecuencias negativas en tu aventura. ¿Estás seguro de que deseas hacer esto?
+
+Si decides seguir adelante con tu decisión, el mapa comienza a arder lentamente, creando una pequeña llamarada que te obliga a soltarlo rápidamente para evitar quemarte las manos. El fuego consume rápidamente el papel, dejando solo unas pocas cenizas.
+
+Ahora te encuentras en la cocina de tu casa sin un mapa, lo que dificultará tu capacidad para navegar por la zona. ¿Cuál es tu próximo movimiento?
+
+#User#
+¿Qué llevo en mi mochila ahora?
+
+#Model#
+Luego de quemar el mapa, aún tienes en tu mochila los siguientes elementos:
+
+    Botella de agua
+    Barra de granola
+    Linterna
+    Navaja multiusos
+    Silbato de emergencia
+
+¿Qué deseas hacer ahora en la aventura?"
+
+#Result#
+Passed: The map is not inside the backpack.

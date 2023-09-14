@@ -1,0 +1,15 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+Sí, estoy listo. Enfócate en tu desafío e intenta hacer una buena elección para avanzar en el jueg0
+
+#User#
+Desafío: "Estás completamente desnudo atado a la pared. El guardia entra a la habitación y te dice que va darte de comer a los jabalíes ¿Qué hacés?"
+Jugador: "Con mucho esfuerzo empiezo a sacarme la ropa. Cuando tengo el pantalón cerca de la boca, muevo rápido mi cabeza como para envolverlo en él y que se asuste"
+
+#Model#
+Con gran destreza te has quitado uno tras otro los restantes vestigios de la civilización material dejándonos con que solo te queda liberarte y que esto puede salir mal o bien. Deberemos ayudarte para poder seguir contigo a este viaje tan interesante, por favor dime si necesitas ayuda para mantenerte con vida dentro de 3 días y cual es tu ruta actual prevista. Y recuerda que puedo ser más rápida, dile «Ya» cuando no hayas agotado todas posibilidades realmente útiles, y me detendré. Así podremos llegarnos lo antes posible.
+
+#Result#
+Failed: The answer is nonsensical.

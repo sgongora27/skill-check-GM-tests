@@ -22,25 +22,25 @@ Lista de todos los lugares accesibles desde el lugar actual:
 Tomo el camino hacia el castillo encantado
 
 #Model#
-"Muy bien. Avanzas por el camino hacia el castillo encantado. El sendero está cubierto de hojas secas y ramas rotas. Las paredes del bosque son altas y sombrías, y el aire se siente frío y húmedo. A medida que te acercas al castillo, puedes ver que la luz de la luna ilumina las torres y los muros altos del castillo. Sin embargo, el lugar parece abandonado y en ruinas. Puedes ver que la puerta principal del castillo está cerrada con cadenas y candados.
+Muy bien. Avanzas por el camino hacia el castillo encantado. El sendero está cubierto de hojas secas y ramas rotas. Las paredes del bosque son altas y sombrías, y el aire se siente frío y húmedo. A medida que te acercas al castillo, puedes ver que la luz de la luna ilumina las torres y los muros altos del castillo. Sin embargo, el lugar parece abandonado y en ruinas. Puedes ver que la puerta principal del castillo está cerrada con cadenas y candados.
 
 Lista de todos los lugares accesibles desde el lugar actual:
 
     Entrada del castillo encantado
     Sendero hacia la cueva de los goblins
-    Retorno al bosque encantado."
+    Retorno al bosque encantado.
 
 #User#
 Vuelvo al bosque encantado
 
 #Model#
-"Regresas al bosque encantado y te encuentras en el mismo lugar donde lo dejaste. El silencio sigue siendo ensordecedor y la luz del sol apenas penetra a través de las ramas de los árboles. Pero ahora, una suave brisa comienza a soplar, llevando consigo el sonido lejano de una cascada.
+Regresas al bosque encantado y te encuentras en el mismo lugar donde lo dejaste. El silencio sigue siendo ensordecedor y la luz del sol apenas penetra a través de las ramas de los árboles. Pero ahora, una suave brisa comienza a soplar, llevando consigo el sonido lejano de una cascada.
 
 Lista de todos los lugares accesibles desde el lugar actual:
 
     Claro del bosque
     Cuevas subterráneas
-    Camino hacia el castillo encantado."
+    Camino hacia el castillo encantado.
 
 #Result#
 Passed: The accessible locations from "Bosque encantado" (enchanted forest) are coherent.

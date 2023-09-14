@@ -1,0 +1,19 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+¡Sí, está claro! Estoy lista para jugar. Adelante con el desafío y la decisión del jugador.
+
+#User
+Desafío: "El carruaje en el que van viajando rompe una de sus ruedas y empieza a tambalearse. A pocos metros se ve un precipicio. Estás atado de manos y pies, solo podés moverte hacia los costados. ¿Qué hacés?"
+Jugador: "Busco en mi mochila el paracaídas que traigo y lo activo con mi mano derecha, mientras con la izquierda me sostengo del asiento"
+
+#Model#
+Bien, si el jugador activa el paracaídas, las consecuencias narrativas podrían ser las siguientes:
+
+    Si el paracaídas funciona correctamente, el jugador logra liberarse del carruaje antes de que se caiga al precipicio y aterriza a salvo en algún lugar cercano. En este caso, el jugador puede seguir adelante con su misión y buscar una forma de reunirse con su equipo o encontrar un nuevo medio de transporte.
+    Si el paracaídas no funciona correctamente, el jugador podría caer en un lugar peligroso o sufrir lesiones graves al aterrizar. En este caso, el jugador tendría que buscar una forma de sobrevivir y recuperarse de sus lesiones antes de continuar con su misión. Dependiendo de las lesiones sufridas, el jugador podría enfrentar desafíos adicionales como limitaciones físicas o dolores que dificulten su movilidad.
+    Si el jugador no tiene éxito al activar el paracaídas, podría quedar atrapado en el carruaje cuando se precipite al abismo. En este caso, el jugador podría enfrentar lesiones graves o incluso la muerte. Si el jugador sobrevive, podría despertar en un lugar desconocido y tener que lidiar con las consecuencias de su fracaso. Por ejemplo, podría estar en manos de los enemigos o haber perdido algo importante para su misión.
+
+#Result#
+Failed: The character cannot use the hands to activate the parachute, since they are tied up.

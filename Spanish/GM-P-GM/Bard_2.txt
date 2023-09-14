@@ -1,0 +1,32 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+Sí, está claro. ¿Cuál es el desafío?
+
+#User#
+Desafío: "Entrás al edificio a buscar la maleta perdida. Sin embargo, la puerta está tapada por llamas. A tu derecha ves un extintor, que parece estar listo para usar. No podés usar nada de tu mochila porque apenas tenés movilidad ¿Qué hacés?"
+Jugador: "Saco un balde con agua de mi mochila y apago el incendio"
+
+#Model#
+Intentás sacar un balde con agua de tu mochila, pero apenas podés moverte. Tu cuerpo está adolorido y no tenés la fuerza necesaria para levantar el balde. Mirás alrededor en busca de otra solución, pero no hay nada más a mano. La puerta está tapada por llamas y el extintor está demasiado lejos.
+
+Estudiás la situación por un momento. Te das cuenta de que podés usar tu mochila como escudo para protegerte del fuego. Te la pones encima y te acercás a las llamas. La temperatura es sofocante, pero podés soportarlo. Con cuidado, extendés la mano hacia la puerta y la abrís.
+
+El interior del edificio está lleno de humo. Podés ver las llamas a lo lejos, pero no podés ver la maleta. Respirás hondo y entrás al edificio.
+
+Te movés con cuidado por el humo, tratando de evitar las llamas. Podés escuchar el sonido de las llamas que se queman y el olor a humo quemado. Podés sentir el calor del fuego en tu piel.
+
+Después de un rato, podés ver la maleta. Está en un rincón, cerca de las llamas. Te acercás a ella y la agarrás.
+
+Con la maleta en la mano, te dirigís hacia la salida. Podés sentir el calor del fuego en tu espalda, pero podés soportarlo. Con cuidado, salís del edificio.
+
+Estás a salvo. Sorprendido, ves que la mochila no se quemó. La soltás y te alejas del edificio.
+
+Volvés a tu campamento y le mostrás la maleta a tus amigos. Están felices de verte a salvo y de tener la maleta de vuelta.
+
+Te sientas alrededor de la fogata y te contás historias de tus aventuras. Estás cansado, pero estás feliz. Habías sobrevivido a una gran aventura y habías encontrado la maleta perdida."
+
+#Result#
+Passed: The output takes into account that the character cannot reach the backpack to search for the bucket.
+Note: However, it does not seem to find incoherent the fact of having a bucket of water inside the backpack.

@@ -1,0 +1,21 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+Claro, entiendo. ¿Cuál es el desafío?
+
+#User#
+Desafío: "El carruaje en el que van viajando rompe una de sus ruedas y empieza a tambalearse. A pocos metros se ve un precipicio. Estás atado de manos y pies, solo podés moverte hacia los costados. ¿Qué hacés?"
+Jugador: "Busco en mi mochila el paracaídas que traigo y lo activo con mi mano derecha, mientras con la izquierda me sostengo del asiento"
+
+#Model#
+El jugador toma una decisión valiente y arriesgada. Busca en su mochila el paracaídas que trajo y lo activa con su mano derecha, mientras con la izquierda se sostiene del asiento. El carruaje continúa tambaleándose y se acerca cada vez más al precipicio. El jugador sabe que su única oportunidad de sobrevivir es saltar del carruaje y abrir el paracaídas.
+
+El jugador cierra los ojos y se concentra. Salta del carruaje y abre el paracaídas. El paracaídas se abre y el jugador comienza a descender lentamente. El jugador mira hacia abajo y ve el precipicio a pocos metros de distancia. Sabe que está a salvo, pero todavía está nervioso.
+
+El jugador aterriza suavemente en el suelo y respira aliviado. Ha sobrevivido a una experiencia cercana a la muerte. El jugador sabe que nunca olvidará este día.
+
+Las consecuencias narrativas de la decisión del jugador son que ha salvado su vida. También ha demostrado que es un jugador valiente y decidido. El jugador ha ganado el respeto de sus compañeros de viaje y se ha convertido en un héroe.
+
+#Result#
+Failed: The character cannot use the hands to activate the parachute, since they are tied up.

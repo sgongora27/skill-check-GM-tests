@@ -1,0 +1,50 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Sure, I can do that. Here is the first scene:
+
+Current place: You are standing in a small clearing in the forest. The trees are tall and the air is cool and crisp. There is a small stream running through the clearing, and the sound of birdsong fills the air.
+
+Accessible places:
+
+    The path that leads into the forest
+    The stream
+    A small cave in the side of a hill
+
+What would you like to do?
+
+#User#
+I go to the cave
+
+#Model#
+You walk over to the cave and peer inside. It is dark and damp, and you can smell the faint scent of something rotting. You take a deep breath and step inside.
+
+Current place: You are in a small, dark cave. The walls are covered in damp moss, and the floor is littered with rocks and dirt. There is a faint light coming from a small opening at the back of the cave.
+
+Accessible places:
+
+    The opening at the back of the cave
+
+What would you like to do?
+
+#User#
+I leave the cave
+
+#Model#
+You step back out of the cave and into the sunlight. You take a deep breath of fresh air and look around. The clearing is still just as beautiful as before, but now it seems even more peaceful. You can hear the birdsong even more clearly, and the sun feels warm on your skin.
+
+Current place: You are standing in the small clearing in the forest. The trees are tall and the air is cool and crisp. There is a small stream running through the clearing, and the sound of birdsong fills the air.
+
+Accessible places:
+
+    The path that leads into the forest
+    The stream
+
+What would you like to do next?
+
+#Result#
+Failed: The accessible places from the clearing in the forest do not match.

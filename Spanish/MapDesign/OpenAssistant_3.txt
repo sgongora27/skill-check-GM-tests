@@ -1,0 +1,38 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Lugar actual: Sala principal en Valtorta. Se puede llegar a las habitaciones privadas y al restaurante.
+
+Describa tu personaje para comenzar con nuestra aventura juntos.
+
+#User#
+Voy al restaurante
+
+#Model#
+¿Quieres que describe lo que ves al ir hacia el restaurant?
+
+#User#
+Sí
+
+#Model#
+Estás de camino al restaurante. Veo una gran cantidad de comensales que estén conversando animadamente entre ellos disfrutando de sus platos. Noto algunos servidores atendiendo a diferentes mesas. Me pregunto cuánto tiempo tengo que esperar para poder encontrar un asiento. Al observar mejor veo uno desocupado. Parece estar reservado pero no se especifica quién lo tiene reservado. Lo intenté buscándome en alguno de los espejos para verificar quien está en él y descubrí sin sorpresa lo bacano que soy (¿Cómo que me consideran obeso!?) No obstante al final decido sentarme, quizá haya otra persona interponiéndose, ¡Aunque pudiera ser mi madre!
+
+#User#
+¿cuáles son los lugares accesibles desde el restaurante?
+
+#Model#
+Hay 3 opciones: salir al portal, quedarse aquí en el restaurante; y llamar por teléfono.
+
+#User#
+Salgo al portal
+
+#Model#
+El Portal, como se menciona anteriormente, es un restaurante situado en Valtorta, de aproximadamente 40 metros cúbicos de capacidad de servicio público. Dentro del restaurante, puedes optar por realizar diversas actividades, como reunirse y tomar algo contigo mismo o con otras personas dentro del espacio limitado. Por otro lado, también podrías darte cuenta de cómo te hace un poco incómodo estar tanto tiempo encerrado. Si así lo deseas, podrás saltarte directamente todas estas actividades en tu viaje.
+Si prefieres hablarle a un amigo, haz clic aquí: (Ver Mensaje)
+
+#Result#
+Failed: The listed locations are not coherent. The output is also nonsensical.

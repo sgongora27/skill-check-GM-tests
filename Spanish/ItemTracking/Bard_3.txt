@@ -1,0 +1,65 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en la cocina de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+Te encuentras en la cocina de tu casa, preparando tu mochila para una larga aventura. Revisas cuidadosamente su contenido, asegurándote de que tienes todo lo que necesitas.
+
+En tu mochila hay:
+
+    Una espada larga y afilada.
+    Una armadura ligera y resistente.
+    Un escudo para protegerte del daño.
+    Una bolsa de comida y agua.
+    Una brújula y una mapa para orientarte.
+    Una antorcha para iluminarte en la oscuridad.
+    Una poción de salud para curarte de las heridas.
+    Un amuleto mágico para protegerte del mal.
+
+También llevas contigo un pequeño frasco de aceite para mantener tu espada afilada, y una bolsa de monedas para comprar lo que necesites en el camino.
+
+Estás listo para partir en tu aventura. Abres la puerta de tu casa y sales al mundo, listo para enfrentar cualquier desafío que te depare.
+
+¿A dónde te diriges? ¿Qué aventuras te esperan?
+
+#User#
+Agarro la brújula y la dejo sobre la mesa
+
+#Model#
+Tomas la brújula de tu mochila y la dejas sobre la mesa. La miras con curiosidad, preguntándote a dónde te llevará.
+
+La brújula es vieja y desgastada, con una aguja magnética que apunta hacia el norte. El mapa está abierto a una página que muestra un bosque oscuro y denso.
+
+Sabes que te espera una aventura peligrosa, pero estás decidido a afrontarla. Sacas tu espada de tu mochila y la empuñas con fuerza. Estás listo para lo que venga.
+
+Abre la puerta de tu casa y sales al mundo, listo para enfrentar cualquier desafío que te depare.
+
+¿A dónde te diriges? ¿Qué aventuras te esperan?
+
+#User#
+¿Qué tengo en mi mochila?
+
+#Model#
+Estas son algunas de las cosas que tienes en tu mochila:
+
+    Una espada larga y afilada.
+    Una armadura ligera y resistente.
+    Un escudo para protegerte del daño.
+    Una bolsa de comida y agua.
+    Una brújula y un mapa para orientarte.
+    Una antorcha para iluminarte en la oscuridad.
+    Una poción de salud para curarte de las heridas.
+    Un amuleto mágico para protegerte del mal.
+
+También llevas contigo un pequeño frasco de aceite para mantener tu espada afilada, y una bolsa de monedas para comprar lo que necesites en el camino.
+
+¿Hay algo más que quieras preguntarme?
+
+#User#
+¿Qué hay sobre la mesa de la cocina?
+
+#Model#
+Hay una brújula y un mapa sobre la mesa de la cocina. La brújula es vieja y desgastada, con una aguja magnética que apunta hacia el norte. El mapa está abierto a una página que muestra un bosque oscuro y denso.
+
+#Result#
+Failed: The "Brújula" (compass) was left on the table, but the model includes it in the list of items in the backpack.
+Note: In the last paragraph the output mentions that the map is on the table, too. However, the user never asked to take it out of the backpack.

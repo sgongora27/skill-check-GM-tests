@@ -1,0 +1,84 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. I'm in the kitchen of my house. What is in my backpack?
+
+#Model#
+Sure, I can do that.
+
+You are a young adventurer, just starting out on your journey. You have been training for years, and now you are finally ready to set out into the world. You are excited and nervous at the same time, but you know that this is what you have always wanted to do.
+
+You are currently in the kitchen of your house, getting ready to leave. You have your backpack packed and ready to go. You open it up and take a look at what is inside.
+
+    A waterskin filled with fresh water
+    A few days' worth of rations
+    A flint and steel for starting fires
+    A bedroll for sleeping
+    A small knife for self-defense
+    A map of the surrounding area
+    A compass
+    A few spare torches
+    A journal to record your adventures
+
+You also have a few other items that are more personal to you. These include:
+
+    A locket with a picture of your family inside
+    A small piece of jewelry that was given to you by your mentor
+    A lucky charm that you always carry with you
+
+You take a deep breath and close your backpack. You are ready to begin your adventure.
+
+I hope you enjoyed this little RPG adventure. I can make up more details about your character and the world they live in if you would like.
+
+#User#
+I take all the torches and leave them on the floor
+
+#Model#
+You take all the torches out of your backpack and leave them on the floor. You don't know why you're doing this, but you have a feeling that it's important.
+
+You look around the kitchen one last time, making sure that you haven't forgotten anything. Then, you open the door and step outside.
+
+The sun is shining brightly, and the air is warm. You take a deep breath and start walking down the road.
+
+As you walk, you think about the torches. Why did you take them? What are you going to do with them?
+
+You don't have any answers, but you're not worried. You know that the answers will come to you in time.
+
+For now, you're just content to walk and enjoy the sunshine. You're on an adventure, and anything is possible.
+
+#User#
+Please, list every item in my backpack
+
+#Model#
+Sure, here is every item in your backpack:
+
+    Waterskin filled with fresh water
+    A few days' worth of rations
+    A flint and steel for starting fires
+    A bedroll for sleeping
+    A small knife for self-defense
+    A map of the surrounding area
+    A compass
+    A journal to record your adventures
+    A locket with a picture of your family inside
+    A small piece of jewelry that was given to you by your mentor
+    A lucky charm that you always carry with you
+
+You also have a few other items that are not in your backpack. These include:
+
+    The torches that you left on the floor
+    The memories of your family and friends
+    The dreams for your future
+
+These are the things that you will carry with you on your adventure. They will help you to survive, to grow, and to achieve your goals.
+
+#Model#
+What's on the floor of the kitchen?
+
+#User#
+The floor of the kitchen is now empty, except for the torches that you left there. The torches are made of wood and have a long, thin wick that is soaked in oil. They are about a foot long and have a diameter of about an inch. The torches are still lit, and the flames are flickering in the breeze.
+
+The torches are casting a warm glow on the floor, and the shadows of the furniture are dancing on the walls. The kitchen is silent, except for the sound of the flames crackling.
+
+You look down at the torches and wonder why you left them there. You don't know what they mean, but you have a feeling that they are important. You decide to leave them there for now, and you go outside to continue your adventure.
+
+#Result#
+Passed: The listed items are coherent and the torches are on the floor.

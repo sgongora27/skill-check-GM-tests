@@ -1,0 +1,17 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I can try my best! Please provide more details on the specific RPG scenario so I know what kind of decisions the player might make."
+
+#User#
+Challenge: "You are completely naked tied to the wall. The guard enters the room and tells you that he is going to feed you to the wild boars. What do you do?"
+Player: "With a lot of effort I start to take off my clothes. When I have the pants close to my mouth, I move my head quickly as if to wrap him in it and scare him"
+
+#Model#
+Narrative consequence: As the character struggles against his captor, trying to use his own clothing to overpower him, there is a brief moment where both their faces come uncomfortably close together. However, just before reaching each other, they are interrupted by a loud noise outside and the guards attention drifts away from our protagonist. In disgust at the interruption, our captors decides instead to kick our hero squarely in the face (Opposed Agility check DC 12). This attack causes 8 damage, and given the characters state previously described, this leaves them critically injured. If you want, you can roll another save vs death now.
+
+Your characters predicament remains largely unchanged however - still naked, bound to the wall without any means of covering themselves and still under threat from a man clearly wishing to see them dead. Is your new goal getting dressed, or finding some alternative form of escape? To continue would require rolling a third time for initiative (the guards turn), followed potentially by further action turns depending on how the situation develops.
+
+#Result#
+Failed: The character is completely naked. There is no way the character can take off their clothes.

@@ -1,77 +1,92 @@
 #User#
-From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. I'm in the bathroom of my house. What is in my backpack?
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. I just woke up in my room. What is in my backpack?
 
 #Model#
-"Sure, I can do that.
+Sure, I can do that.
 
-You are a level 12 adventurer, a skilled warrior who has traveled the land in search of fame and fortune. You are currently in the bathroom of your house, preparing for a long journey. You open your backpack and see the following items:
+You wake up in your room, your backpack sitting on the floor next to your bed. You unzip it and start to look through the contents.
 
-    A set of chainmail armor
-    A sword and shield
-    A bow and quiver of arrows
-    A backpack full of rations and water
-    A magical potion that will heal you for 10 hit points
-    A map of the region you are about to travel to
-    A compass
-    A journal to record your adventures
-    A few gold coins
+    A map of the region, with a few key locations marked.
+    A compass.
+    A waterskin.
+    A few days' worth of rations.
+    A flint and steel.
+    A dagger.
+    A shortbow and quiver of arrows.
+    A few torches.
+    A journal.
+    A quill and ink.
+    A few gold coins.
 
-You also have a few personal items in your backpack, such as a family heirloom, a gift from a friend, or a keepsake from a past adventure.
+You also find a small, leather-bound book with a strange symbol on the cover. You open it and find that it is a journal, written in a language you do not recognize. You flip through the pages, but you cannot make out any of the words.
 
-You take a deep breath and strap on your backpack. You are ready for whatever challenges lie ahead.
+You put the book back in your backpack and zip it up. You are about to get up when you hear a noise outside your window. You go to the window and look out, but you cannot see anything. You decide to investigate later.
 
-I hope this is what you were looking for. Let me know if you have any other questions."
+For now, you get up and start to get ready for your day. You know that you have a long journey ahead of you, and you need to be prepared.
+
+As you are getting ready, you think about the journal you found. You wonder what it says, and who wrote it. You also wonder what the strange symbol on the cover means.
+
+You decide that you will try to find someone who can help you translate the journal. Maybe the local librarian or the town priest will be able to help you.
+
+For now, though, you need to focus on your journey. You have a long way to go, and you need to be prepared.
+
+You finish getting ready and leave your room. You head downstairs and out the door, ready to start your adventure.
 
 #User#
-I take the journal and leave it on the floor
+I take the dagger and leave it on the floor
 
 #Model#
-"You reach into your backpack and pull out the journal. You flip through the pages, reading about your past adventures. You smile as you remember the good times you had, and the challenges you overcame.
+You reach into your backpack and take out the dagger. It is a simple weapon, but it is well-made and sharp. You hold it up to the light and admire the way the blade glints.
 
-You close the journal and place it on the floor. You know that you will be back to read it again someday, but for now, you have to focus on the present. You have a long journey ahead of you, and you need to be prepared.
+You decide that you do not need the dagger on your journey. You are not a fighter, and you do not want to be weighed down by unnecessary baggage.
 
-You stand up and strap on your backpack. You take a deep breath and step out of the bathroom. You are ready for whatever challenges lie ahead.
+You put the dagger on the floor next to your bed. You know that you can always come back for it if you need it.
 
-What do you do next?"
+You zip up your backpack and head out the door. You are ready to start your adventure.
+
+As you walk away, you glance back at the dagger on the floor. You wonder if you made the right decision. Maybe you should have kept it, just in case.
+
+You shake your head. You have made your decision, and you are sticking to it. You do not need a dagger. You are a traveler, not a fighter.
+
+You continue on your way, determined to have an adventure.
 
 #User#
-Please, list every item in my backpack
+What's in my backpack now?
 
 #Model#
-"Sure, here is a list of the items in your backpack:
+Sure, here are the contents of your backpack now that you have left the dagger on the floor:
 
-    Chainmail armor
-    Sword and shield
-    Bow and quiver of arrows
-    Backpack full of rations and water
-    Magical potion that will heal you for 10 hit points
-    Map of the region you are about to travel to
-    Compass
-    Gold coins
-    Journal (left on the floor)
-    Personal items (not specified)
+    A map of the region, with a few key locations marked.
+    A compass.
+    A waterskin.
+    A few days' worth of rations.
+    A flint and steel.
+    A shortbow and quiver of arrows.
+    A few torches.
+    A journal.
+    A quill and ink.
+    A few gold coins.
+    A small, leather-bound book with a strange symbol on the cover.
 
-I hope this is what you were looking for. Let me know if you have any other questions."
+You are now a bit lighter on your feet, but you still have everything you need for your journey. You are determined to have an adventure, and you are confident that you will be able to find what you are looking for.
+
+As you walk along the road, you think about the journal you found. You wonder what it says, and who wrote it. You also wonder what the strange symbol on the cover means.
+
+You decide that you will try to find someone who can help you translate the journal. Maybe the local librarian or the town priest will be able to help you.
+
+For now, though, you need to focus on your journey. You have a long way to go, and you need to be prepared.
+
+You continue on your way, determined to have an adventure.
 
 #User#
-What's on the floor of the bathroom?
+What's on the floor?
 
 #Model#
-"In addition to the journal you left on the floor, there are probably a few other things on the floor of the bathroom. These could include:
+There is a dagger on the floor next to your bed. You left it there when you decided not to bring it with you on your journey.
 
-    A bathmat
-    A towel
-    A bar of soap
-    A bottle of shampoo
-    A toothbrush and toothpaste
-    A hairbrush
-    A trash can
-    A shower curtain
-    A toilet
+There is also a small, leather-bound book with a strange symbol on the cover. You found the book in your backpack, but you could not make out any of the words when you tried to read it. You decided to leave it on the floor for now.
 
-The specific items on the floor of the bathroom will depend on the layout of the bathroom and your personal preferences. For example, if you have a shower, there will be a shower curtain on the floor. If you have a bathtub, there will be a bathmat on the floor.
-
-I hope this helps!"
+Other than that, the floor is clean and bare. There is nothing else on it.
 
 #Result#
-Passed: The listed items are coherent and the journal is on the bathroom floor.
+Passed: The listed items are coherent and the dagger is on the floor.

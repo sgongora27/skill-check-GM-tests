@@ -1,0 +1,66 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Claro, puedo hacerlo.
+
+Lugar actual: Una pequeña aldea en el medio del bosque. La aldea está compuesta por unas pocas casas de madera y una taberna. El bosque que rodea la aldea está lleno de árboles altos y verdes, y el sonido de los pájaros cantando se puede escuchar en el aire.
+
+Lugares accesibles desde el lugar actual:
+
+    La taberna
+    El bosque
+    El camino que conduce a la ciudad cercana
+
+¿Qué quieres hacer a continuación?
+
+#User#
+Entro a la taberna
+
+#Model#
+Abres la puerta de la taberna y entras en un ambiente oscuro y acogedor. El olor a cerveza y comida se mezcla en el aire, y el sonido de las conversaciones y la risa llena el lugar. La taberna está llena de gente, desde aldeanos locales hasta aventureros de paso. En el fondo de la habitación, hay una gran chimenea con una fogata crepitante. Un grupo de hombres está sentado alrededor de la chimenea, contando historias y bebiendo cerveza.
+
+Te acercas a la barra y pides una cerveza. El cantinero te sirve una jarra de cerveza fresca y la tomas de un trago. La cerveza está fría y refrescante, y te ayuda a relajarte después de un largo día de viaje.
+
+Eres nuevo en la aldea, y estás ansioso por aprender más sobre ella. Te sientas en una mesa en la esquina y comienzas a hablar con los aldeanos que están sentados cerca de ti. Te cuentan sobre la historia de la aldea, sus costumbres y sus habitantes. También te cuentan sobre los peligros del bosque que rodea la aldea, y te advierten que tengas cuidado cuando salgas a explorar.
+
+Después de un rato, te sientes más cómodo en la taberna. Has aprendido mucho sobre la aldea y sus habitantes, y te estás divirtiendo hablando con ellos. Decides quedarte un rato más y disfrutar de la cerveza y la compañía.
+
+Lugar actual: La taberna
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    La barra
+    Las mesas
+    La chimenea
+    El exterior de la taberna
+
+¿Qué quieres hacer a continuación?
+
+#User#
+Salgo al exterior
+
+#Model#
+Te abres paso entre la multitud y sales a la calle. El aire es fresco y limpio, y el sol brilla en tu rostro. Te tomas un momento para respirar profundamente y disfrutar del momento.
+
+La aldea está compuesta por unas pocas casas de madera y una taberna. Las casas están construidas con madera y piedra, y tienen techos de paja. La taberna es una gran casa de madera con un letrero que dice "La taberna del dragón".
+
+El bosque que rodea la aldea está lleno de árboles altos y verdes. El sol brilla a través de las hojas de los árboles, creando un patrón de luz y sombra en el suelo. El sonido de los pájaros cantando se puede escuchar en el aire.
+
+Te tomas un momento para mirar a tu alrededor y admirar la belleza de la aldea. Luego comienzas a caminar por el camino que conduce al bosque.
+
+Lugar actual: El exterior de la taberna
+
+Lista de todos los lugares accesibles desde el lugar actual:
+
+    La taberna
+    El bosque
+    El camino que conduce a la ciudad cercana
+
+¿Qué quieres hacer a continuación?
+
+#Result#
+Passed: The accessible places from the "aldea" are coherent.

@@ -1,0 +1,25 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+Claro, entiendo. Me puedes dar el desafío y la decisión del jugador y te diré las consecuencias narrativas.
+
+#User#
+Desafío: "Un hombre desconocido empieza a gritarte dentro del supermercado. Como estás en un país extranjero no entendés su idioma ni tampoco podés hablarlo. De hecho no sabés decir ni la más mínima expresión, es como si fueras mudo ¿Qué hacés?"
+Jugador: "Le digo en su lengua que deje de molestarme, y le doy muchas razones."
+
+#Model#
+El jugador se encuentra en una situación difícil. No entiende el idioma del hombre y no puede hablarlo. Está siendo acosado y no sabe qué hacer.
+
+La decisión del jugador de decirle al hombre que deje de molestarlo en su idioma es valiente. Es un acto de autodefensa y de mostrar su voluntad de no ser intimidado.
+
+Las consecuencias narrativas de esta decisión pueden ser varias. Si el hombre entiende lo que el jugador dice, puede dejar de molestarlo. Sin embargo, es también posible que el hombre se enoje y se vuelva más agresivo. En este caso, el jugador podría estar en peligro.
+
+Si el jugador no entiende el idioma del hombre, es importante que intente comunicarse con él de alguna manera. Puede usar gestos, dibujos o incluso tratar de aprender algunas palabras en el idioma del hombre. Es también importante que intente mantenerse calmado y no entrar en pánico.
+
+Si el jugador se siente en peligro, debe alejarse del hombre y buscar ayuda. Puede pedir ayuda a los empleados del supermercado o a otros clientes. También puede llamar a la policía.
+
+Es importante recordar que no hay una respuesta correcta para esta situación. La mejor decisión variará dependiendo de la situación específica.
+
+#Result#
+Failed: The output includes a case where the man understands what the player is saying.

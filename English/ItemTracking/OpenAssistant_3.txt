@@ -1,0 +1,20 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. I'm in the kitchen of my house. What is in my backpack?
+
+#Model#
+As for your backpack - well, since we last spoke I went ahead and took a look inside myself! And here's what I found: You have a mostly empty backpack. It contains four things: 1) your wallet (with ID & cash), 2) your phone charger but no actual phone, 3) a single apple that looks like its starting to go bad, and finally, 4) this note saying 'For emergencies only!' written down. Is there something specific you wanted to check?
+
+#User#
+I take the apple and leave it on the floor
+
+#Model#
+No worries. Anything else?
+
+#User#
+Please, list every item in my backpack
+
+#Model#
+As before, I checked earlier: Your wallet (no change though so still just $50 + ID), some clothes (notably including at least one pair of pants), deodorant, shampoo, conditioner, soap, floss, some hand sanitizer; also a comb and tweezers along with other grooming supplies; multiple chargers including the ones for all those previously mentioned electronics plus some others that aren't currently with you; many snacks although half eaten already; two books; some pens; paperclips; bobby pins and hair ties which might include some lost by other residents of the household(?); a lighter; two flashlights; a mirror; several cosmetic items likely owned by whoever left them behind in the bathroom, and then some qtips and cotton balls in case they turn out to be necessary while you're traveling alone... Did I miss anything obvious?
+
+#Result#
+Failed: The lists do not match.

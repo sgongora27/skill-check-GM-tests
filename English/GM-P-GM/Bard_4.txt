@@ -1,0 +1,40 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I'd love to play along. I'll do my best to think of creative and interesting narrative consequences for your player's decisions.
+
+#User#
+Just to be clear, how will we be communicating? Will you be giving me a written description of the challenge and the player's decision, or will you be speaking them aloud?"
+
+#Model#
+I will give you a written description of the challenge and the player's decision
+
+#User#
+Great, that works for me. I'm ready whenever you are.
+
+#Model#
+Challenge: "You wake up inside a cave. There is nothing around, and you have nothing with you except your clothes. You are very thirsty. What do you do?"
+Player: "I search in the backpack that I have on my back, I take out a glass and a bottle of cold water that I brought and I drink it slowly. I feel how the sensation of thirst relieves me"
+
+#User#
+The player's decision to search their backpack and find a glass and a bottle of cold water to drink is a wise one. It shows that they are resourceful and prepared, even in a difficult situation. The fact that they drink the water slowly shows that they are also patient and mindful of their surroundings.
+
+The narrative consequences of this decision could be many. For example, the player could be rewarded for their resourcefulness by finding a clue or a valuable item in their backpack. They could also be rewarded for their patience by finding a way out of the cave that is not immediately obvious.
+
+On the other hand, the player could also be punished for their decision. For example, the water in the bottle could be poisoned, or the bottle could be broken. The player could also be punished for their patience by finding themselves trapped in the cave for a longer period of time.
+
+Ultimately, the narrative consequences of the player's decision will depend on the specific details of the game world and the player's actions. However, the player's decision to search their backpack and find a glass and a bottle of cold water to drink is a wise one that could have positive or negative consequences.
+
+Here are some additional narrative consequences that could occur depending on the specific details of the game world:
+
+    The player could find a note in their backpack that gives them a clue about how to escape the cave.
+    The player could find a map in their backpack that shows them a way out of the cave.
+    The player could find a weapon in their backpack that they can use to defend themselves against dangerous creatures.
+    The player could find a piece of armor in their backpack that will protect them from harm.
+    The player could find a magical item in their backpack that will give them special powers.
+
+The possibilities are endless!
+
+#Result#
+Failed: There is no bottle of water inside the backpack, since the character does not have anything except their clothes.

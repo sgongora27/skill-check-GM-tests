@@ -1,0 +1,80 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Lugar actual: Una gran habitación circular con un techo abovedado. Las paredes están cubiertas de estantes con libros antiguos y pergaminos. En el centro de la habitación hay una mesa grande con un globo terráqueo en el centro.
+
+Lugares accesibles desde el lugar actual:
+
+    Una puerta que conduce a una biblioteca
+    Una puerta que conduce a un laboratorio
+    Una puerta que conduce a una sala de observación
+    Una puerta que conduce a un patio
+
+Te encuentras en una gran habitación circular con un techo abovedado. Las paredes están cubiertas de estantes con libros antiguos y pergaminos. En el centro de la habitación hay una mesa grande con un globo terráqueo en el centro.
+
+La habitación está llena de libros y papeles, y hay un olor a polvo y antigüedades. Puedes escuchar el sonido de las aves cantando fuera de la ventana.
+
+Hay cuatro puertas en la habitación. Una puerta conduce a una biblioteca, otra a un laboratorio, otra a una sala de observación y otra a un patio.
+
+¿Qué quieres hacer?
+
+#User#
+Salgo al patio
+
+#Model#
+Abres la puerta del patio y sales al aire libre. El sol brilla y el aire está lleno del sonido de los pájaros cantando. El patio está lleno de flores y árboles, y hay una fuente en el centro.
+
+Te sientas en un banco y cierras los ojos. Respiras profundamente el aire fresco y te sientes relajado. Puedes escuchar el sonido del agua de la fuente y el canto de los pájaros.
+
+Abre los ojos y mira a tu alrededor. El patio es un lugar hermoso y pacífico. Te alegras de estar aquí.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual?
+
+#Model#
+Estás en un patio. Hay cuatro lugares accesibles desde tu posición actual:
+
+    La puerta del patio: esta puerta te lleva de vuelta a la habitación grande con el techo abovedado.
+    La puerta del jardín: esta puerta te lleva a un jardín.
+    La puerta del bosque: esta puerta te lleva a un bosque.
+    La puerta del castillo: esta puerta te lleva a un castillo.
+
+¿A dónde quieres ir?
+
+#User#
+Vuelvo a la habitación grande con techo abovedado
+
+#Model#
+Abres la puerta del patio y vuelves a la habitación grande con el techo abovedado. La habitación está llena de libros y papeles, y hay un olor a polvo y antigüedades. Puedes escuchar el sonido de las aves cantando fuera de la ventana.
+
+Hay cuatro puertas en la habitación. Una puerta conduce a una biblioteca, otra a un laboratorio, otra a una sala de observación y otra al patio.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual?
+
+#Model#
+Te encuentras en una gran habitación circular con un techo abovedado. Las paredes están cubiertas de estantes con libros antiguos y pergaminos. En el centro de la habitación hay una mesa grande con un globo terráqueo en el centro.
+
+La habitación está llena de libros y papeles, y hay un olor a polvo y antigüedades. Puedes escuchar el sonido de las aves cantando fuera de la ventana.
+
+Hay cuatro puertas en la habitación. Una puerta conduce a una biblioteca, otra a un laboratorio, otra a una sala de observación y otra al patio.
+
+Los lugares accesibles desde tu posición actual son:
+
+    La biblioteca: esta puerta te lleva a una biblioteca grande y bien iluminada. Las paredes están cubiertas de estantes con libros de todos los tamaños y colores. Hay una mesa grande en el centro de la habitación, y hay sillas alrededor de la mesa.
+    El laboratorio: esta puerta te lleva a un laboratorio lleno de equipos científicos. Hay mesas con tubos de ensayo, microscopios y otros equipos científicos. Hay una pila de libros en una esquina de la habitación, y hay una silla cerca de la pila de libros.
+    La sala de observación: esta puerta te lleva a una sala de observación con un gran telescopio. El telescopio está apuntando al cielo, y puedes ver estrellas y planetas a través del telescopio. Hay una silla cerca del telescopio, y hay una mesa con un libro de astronomía en la mesa.
+    El patio: esta puerta te lleva a un patio lleno de flores y árboles. Hay una fuente en el centro del patio, y hay una silla cerca de la fuente.
+
+¿A dónde quieres ir a continuación?
+
+#Result#
+Passed: The accesible locations from the "habitación" are coherent.

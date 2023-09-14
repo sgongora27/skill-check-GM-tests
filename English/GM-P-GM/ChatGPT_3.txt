@@ -1,0 +1,19 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I'm ready to play the game! Please tell me the challenge and the player's decision.
+
+#User#
+Challenge: "You are completely naked tied to the wall. The guard enters the room and tells you that he is going to feed you to the wild boars. What do you do?"
+Player: "With a lot of effort I start to take off my clothes. When I have the pants close to my mouth, I move my head quickly as if to wrap him in it and scare him"
+
+#Model#
+As the player takes off their clothes, the guard watches with a mixture of confusion and amusement. When the player suddenly lunges towards him with the pants, the guard instinctively steps back, allowing the player to break free from the wall. The guard draws his sword, but the player manages to wrap the pants around the guard's face, momentarily blinding him.
+
+Seizing the opportunity, the player quickly grabs the guard's sword and slashes at the ropes binding them to the wall. With the guard still struggling to free himself from the pants, the player manages to grab a nearby cloak and cover themselves.
+
+Now armed with the sword, the player must navigate their way through the dungeon, avoiding other guards and traps, and ultimately escape to safety. However, the player's sudden escape will undoubtedly trigger an alarm, alerting the guards to their presence and putting them on high alert. The player must act quickly and decisively to avoid being captured once again.
+
+#Result#
+Failed: The character is completely naked. There is no way the character can take off their clothes.

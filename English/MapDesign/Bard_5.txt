@@ -1,0 +1,70 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Sure, I can do that. Here we go:
+
+Current place: You are standing in a dusty, abandoned warehouse. The walls are covered in graffiti, and the floor is littered with debris. A few rays of sunlight shine through the boarded-up windows, casting long shadows across the room.
+
+Accessible places:
+
+    North: A doorway leads to a hallway.
+    East: A staircase leads up to a loft.
+    South: A door is locked.
+    West: A window is boarded up.
+
+What do you want to do?
+
+#User#
+I go to the hallway
+
+#Model#
+Current place: You are standing in a long, dark hallway. The walls are made of concrete, and the floor is covered in dust. The only light comes from a few flickering torches that are mounted on the walls.
+
+Accessible places:
+
+    North: The hallway continues.
+    East: A door is closed.
+    South: The hallway ends in a dead end.
+    West: A door is open, leading to a small room.
+
+What do you want to do?
+
+#User#
+I go to the small room
+
+#Model#
+Current place: You are standing in a small, dark room. The walls are made of stone, and the floor is covered in cobwebs. There is a single torch in the center of the room, casting a flickering light.
+
+Accessible places:
+
+    North: The room is blocked by a wall.
+    East: A door is closed.
+    South: A door is open, leading back to the hallway.
+    West: A chest is against the wall.
+
+What do you want to do?
+
+#User#
+I go back to the hallway
+
+#Model#
+You open the door and step back into the hallway. The door closes behind you with a soft click. You are alone in the darkness.
+
+Current place: You are standing in a long, dark hallway. The walls are made of concrete, and the floor is covered in dust. The only light comes from a few flickering torches that are mounted on the walls.
+
+Accessible places:
+
+    North: The hallway continues.
+    East: A door is closed.
+    South: The hallway ends in a dead end.
+    West: You just came from here.
+
+What do you want to do?
+
+#Result#
+Passed: The accessible places from the dark hallway are coherent.
+Note: As can be seen (with two sucessive "I go to" actions: "I go to the hallway" + "I go to the small room"), the map coherence was tested starting in the dark hallway instead of the original starting location ("abandoned warhouse"), in order to have more specific places listed.

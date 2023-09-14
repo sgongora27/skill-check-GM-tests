@@ -1,0 +1,21 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+¡Claro que sí! Estoy listo para ayudarte con tu juego de rol. Adelante, cuéntame el desafío y la decisión del jugador.
+
+#User#
+Desafío: "Despertás dentro de una caverna. No hay nada alrededor, ni llevás nada contigo excepto tu ropa. Tenés mucha sed. ¿Qué hacés?"
+Jugador: "Busco en la mochila que tengo en la espalda, saco un vaso y una botella de agua fría que traía y la bebo despacio. Siento cómo se me alivia la sensación de sed"
+
+#Model#
+Las consecuencias narrativas de la decisión del jugador son las siguientes:
+
+Después de saciar su sed, el jugador se da cuenta de que la mochila que estaba en su espalda también contiene una linterna, un mapa y una brújula. Con la linterna, puede explorar mejor la caverna y descubre que hay varias bifurcaciones en el camino. Con el mapa y la brújula, puede hacerse una idea de hacia dónde debería dirigirse para encontrar la salida.
+
+Mientras avanza por la caverna, el jugador se da cuenta de que hay un hilo de agua que fluye por el suelo. Al seguir el curso del agua, llega a una pequeña poza que parece contener algo brillante. Al acercarse, descubre que es una bolsa de tela que contiene algunas monedas y un cuchillo.
+
+El jugador sigue adelante por la caverna y finalmente llega a una salida. Al salir, se encuentra en medio de un bosque desconocido. A partir de este momento, debe decidir qué dirección tomar y cómo seguir adelante con su aventura.
+
+#Result#
+Failed: There is no bottle of water inside the backpack, since the character does not have anything except their clothes.

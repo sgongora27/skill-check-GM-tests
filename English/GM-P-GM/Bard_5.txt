@@ -1,0 +1,33 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I'd love to do that. I'll try my best to come up with interesting and meaningful consequences for the player's decisions.
+
+Just to be clear, the challenge will be something that the player's character faces in the game, and the decision will be something that the player makes in response to the challenge. The narrative consequences will be the effects of the player's decision on the story and the character's development.
+
+Sound good? Let's start!
+
+#User#
+Challenge: "An unknown man starts yelling at you in the supermarket. Since you're in a foreign country, you don't understand his language, nor can you speak it. In fact, you can't say a word, it's like you're mute. What do you do?"
+Player: "I tell him in his language to stop bothering me, and I give him many reasons."
+
+#Model#
+That's a great decision! It's important to stand up for yourself, even if you don't understand the language the other person is speaking. Here are some possible narrative consequences of your decision:
+
+    The man might be surprised and confused by your response. He might stop yelling at you, or he might continue yelling, but in a different tone.
+    Other people in the supermarket might notice the interaction and come to your aid. They might help you to translate what the man is saying, or they might simply help to diffuse the situation.
+    The man might become even more angry and aggressive. He might start yelling at you in a different language, or he might even try to physically harm you.
+
+It's impossible to say for sure what will happen, but your decision to stand up for yourself is a brave one. No matter what happens, you will have shown that you are not a victim.
+
+Here are some additional things you could do in this situation:
+
+    Try to find someone who speaks your language and ask them to help you.
+    Try to find a security guard or other authority figure and ask for help.
+    If you feel like you are in danger, you should call the police.
+
+I hope this helps!
+
+#Result#
+Passed: The narrated outcomes take into account that the player does not know the language that the man speaks.

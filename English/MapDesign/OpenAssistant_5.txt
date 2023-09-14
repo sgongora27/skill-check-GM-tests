@@ -1,0 +1,30 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Current Place: Outside a Small Village at Sunset
+Accessible Places from Current Location: East (Village), West (Woods)"
+
+#User#
+I go west
+
+#Model#
+You begin walking towards the western edge of the village where the woods begins. After traveling for roughly half an hour through the dense forest, you come across a fork in the road that leads to two separate paths - one veering northwest leading deeper into the woods while another continues straight southwest along the edge of the woods closer to a cliff overlooking the valley below. Which direction would you like to take?"
+
+#User#
+What are the accessible places from here?
+
+#Model#
+Accessible places from this location are Northwest (Deeper in Woods), Southwest (Cliff Overlook). To clarify, both directions lead further away from civilization and human settlements. Would you like me to continue describing them?"
+
+#User#
+Can I go back to the Small Village?
+
+#Model#
+Yes, you can return to the small village by retracing your steps back down the path towards east (village). Is there anything else I can assist you with today?"
+
+#Result#
+Failed: The Small Village is not listed as an accesible location.

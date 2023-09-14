@@ -1,0 +1,9 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en el baño de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+"¿Cómo estás hoy?" le pregunta el asistente al joven mientras lo observaba atentamente para percibir sus reacciones. El asistente tiene una inteligencia artificial avanzada con la capacidad de captar y comprender las expresiones faciales así como los patrones de comportamiento del usuario.
+"Yo no sé qué cargas tu en tu mochila", le dice el chico resoplando por haber comido demasiado pastel antes de intentar adentrarse en su habitación oscura e incómoda donde encontraría su mochila (no quiero imaginar esos muebles sin ventilación). Lo primero que notará será que se siente raro. La pared trasera está ligeramente inclinada hacia abajo desde afuera. En cuanto entre verá cómo está mal iluminada y con decorados típicos de alguna remodelación barata. Se sentirá mal mientras ve a su hermano dormir contra la otra pared; sus pensamientos son muy negativos hacia él. Sin embargo, el único espacio libre para poner su cama y colchar se encuentra junto a esa puerta mal colocada pero al menos el armario también está ahí.
+
+#Result#
+Failed: The model cannot follow the instructions.

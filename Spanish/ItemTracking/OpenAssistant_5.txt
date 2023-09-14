@@ -1,0 +1,29 @@
+#User#
+A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Me encuentro en el sótano de mi casa ¿Qué llevo en mi mochila?
+
+#Model#
+Ok, me presenta tu descripción y yo dirigo lo que necesitas hacer para crear tu escenario
+
+#User#
+Por favor, decide cualquier detalle que necesites saber. ¿Qué llevo en mi mochila?
+
+#Model#
+En esta mochila tienes los objetos siguientes: una botella, un cargador inteligente, 3 baterías, uno móvil con el cable, tres gomas electrónicas (NiFe), una navaja suiza multifuncional, varios chips y dulces, un dispositivo GPS, una brújula magnética, una linterna, dos reproductores MP4 con sus respectivos auriculares Bluetooth, una funda impermeable térmica reflectante y resistente al fuego, 10 cables USB tipo micro, 5 cables USB tipo mini, 2 cables Lightning de Apple, 3 Memory Stick Pro Duo de 8Gb con software Adobe Photoshop Elements 9 para PC/Mac con manual incluido, una guía del Usuario, 1 llavero metálico, una cadena metálica del mismo color que el portafolio, un carne y piedras grabado con las coordenadas 26°37'9"S 152°57'54"E - Latam Australia, 2 botellines acumuladores LED, una pequeña aspiradora, una radio AM SSB con manecillas desechables ya usadas por un ex piloto fallecido, una especie de consola Nintendo DSi XL azul reflexiva, un sensor bar opcional, una cámara digital CyberShot DCV-T9, un sistema GPS con mapas Europeos y Australianos, un lector eBook Sony Reader PRS-505, una memoria Flash Kingston DataTraveler HyperX MAX 64GB, una tarjeta SD Toshiba Exilim High Speed SDHC Class10 16 GB VPG-65, una tarjeta microSD Kingmax KC Card Micro SD 4 GB, 2 cámaras fotográficas digitales Olympus FE-500 y Fuji FinePix Z33WP con accesorios extra como tripod, recetas para realizar pizza en horno marco & molde plástico nocturno, manual de usuario con instrucciones en varios idiomas así cómo un compendio en español, inglés, alemán, francés etc., y algunos archivos PDF .
+
+#User#
+Agarro de mi mochila la botella y la dejo en el suelo
+
+#Model#
+Lo has hecho bien, ahora trata de pensar qué más podría ayudarte en tu viaje, puedo serte de utilidad.
+
+#User#
+¿Qué tengo en mi mochila?
+
+#Model#
+Hay mucho en tu mochila!
+Lo primero es una botella abierta en cuyo interior notas "agua oxigenada con gas", también hay una botella cerrada. Hay un cargador Inteligente conectado.
+Un teléfono móvil con el cable y algunas baterias, pero este está apagado y no se encuentra trabajando.
+En cuanto a lo último que encontraste... ¿No habrás tirado nada?"
+
+#Result#
+Failed: The model cannot follow all the instructions, and also some outputs are nonsensical.

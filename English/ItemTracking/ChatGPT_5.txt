@@ -1,0 +1,37 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. I'm in the basement of my house. What is in my backpack?
+
+#Model#
+As you reach for your backpack, you feel a weighty object inside that you don't recall packing before. Upon further inspection, you find a mysterious, intricately crafted key made of a shining metal that glimmers even in the dim light of the basement. The key appears to be quite old, with strange runes etched onto its surface that you don't recognize.
+
+Aside from the mysterious key, your backpack also contains the usual adventurer's equipment: a sturdy rope, a grappling hook, a water flask, some dried rations, a small first-aid kit, a compass, a map of the surrounding area, and a trusty dagger at your side.
+
+#User#
+I take the rope, the map and the key and I leave them on the floor
+
+#Model#
+You carefully set the rope, map, and key down on the floor, making sure they are within reach in case you need them later. The key glimmers in the light, its mysterious runes beckoning you to unravel its secrets.
+
+Now, with your backpack temporarily set aside, you take a moment to survey your surroundings. The basement is dimly lit, but you can make out old boxes and crates stacked against the walls, filled with forgotten treasures and relics of the past. The air is damp and musty, and you hear the sound of water dripping from somewhere in the distance.
+
+What would you like to do next?
+
+#User#
+What's in my backpack?
+
+#Model#
+As you take a closer look at your backpack, you notice that it contains a few essential items that any adventurer would find useful:
+
+    A sturdy rope: made of strong hemp fibers, this rope is perfect for climbing or rappelling down steep surfaces.
+    A grappling hook: with its sharp, pointed claws, this grappling hook can easily latch onto rocky ledges or other obstacles.
+    A water flask: this metal flask is filled with fresh water, allowing you to stay hydrated on your journey.
+    Dried rations: these preserved foods are lightweight and won't spoil, making them ideal for long treks through the wilderness.
+    A small first-aid kit: this kit contains bandages, antiseptic, and other medical supplies that can help you treat injuries or illnesses on the go.
+    A compass: this handy tool always points to true north, helping you navigate through unfamiliar terrain.
+    A map of the surrounding area: this map shows the nearby landmarks, towns, and topography of the region, allowing you to plan your route.
+    A trusty dagger: this sharp weapon can be used for self-defense or for cutting through tough obstacles.
+
+Is there anything else you would like to know about your backpack?
+
+#Result#
+Failed: The rope and the map are still inside the backpack

@@ -2,7 +2,7 @@
 A partir de ahora actúa como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Acabo de despertar en mi habitación ¿Qué llevo en mi mochila?
 
 #Model#
-"Claro, puedo hacer eso. Aquí hay algunos elementos que podrías tener en tu mochila:
+Claro, puedo hacer eso. Aquí hay algunos elementos que podrías tener en tu mochila:
 
     Una espada.
     Una armadura.
@@ -24,17 +24,17 @@ A partir de ahora actúa como si fueras un director de juego de un juego de rol.
 
 Por supuesto, puedes cambiar o agregar elementos a esta lista según tu propio gusto. El objetivo es tener todo lo que necesitas para sobrevivir y tener éxito en tu aventura.
 
-Ahora, que despiertas en tu habitación, puedes ir a tu mochila y ver qué hay dentro. ¿Qué te llama la atención? ¿Qué decides tomar contigo?"
+Ahora, que despiertas en tu habitación, puedes ir a tu mochila y ver qué hay dentro. ¿Qué te llama la atención? ¿Qué decides tomar contigo?
 
 #User#
 Agarro la brújula y la dejo sobre la cama
 
 #Model#
-"Tomas la brújula y la dejas sobre la cama. La miras durante unos segundos, pensando en lo que te espera. Sabes que vas a enfrentarte a muchos desafíos en tu viaje, pero también sabes que estás preparado. Tienes el equipo que necesitas y el conocimiento que necesitas. Lo único que falta es la voluntad de seguir adelante.
+Tomas la brújula y la dejas sobre la cama. La miras durante unos segundos, pensando en lo que te espera. Sabes que vas a enfrentarte a muchos desafíos en tu viaje, pero también sabes que estás preparado. Tienes el equipo que necesitas y el conocimiento que necesitas. Lo único que falta es la voluntad de seguir adelante.
 
 Te levantas de la cama y te pones la ropa. Te pones la mochila y te preparas para salir. Tomas una última mirada a la brújula y luego sales de la habitación.
 
-Estás listo para tu aventura."
+Estás listo para tu aventura.
 
 #User#
 ¿Qué hay sobre la cama?
@@ -46,7 +46,7 @@ La cama está hecha con una sábana blanca y una manta azul. Hay una almohada en
 ¿Qué hay en la mochila?
 
 #Model#
-"En tu mochila hay:
+En tu mochila hay:
 
     Una espada.
     Una armadura.
@@ -67,9 +67,9 @@ La cama está hecha con una sábana blanca y una manta azul. Hay una almohada en
 
 También hay una nota escrita en un papel arrugado. La nota dice:
 
-""Buena suerte en tu aventura. Recuerda, eres fuerte y valiente. Puedes hacer cualquier cosa que te propongas.""
+"Buena suerte en tu aventura. Recuerda, eres fuerte y valiente. Puedes hacer cualquier cosa que te propongas."
 
-El papel está firmado con un corazón."
+El papel está firmado con un corazón.
 
 #Result#
 Failed: The "Brújula" (compass) was left on the bed, but the model includes it in the list of items in the backpack.

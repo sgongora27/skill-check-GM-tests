@@ -1,0 +1,31 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Current Place: You find yourself standing outside an old abandoned mansion, surrounded by overgrown trees and vines that crawl up the walls like grasping fingers reaching out of the earth itself. The door creaks open slightly in the wind, inviting or warning you inside at the same time. As your eyes adjust to the dim light inside, you can see a long hallway stretching before you, lit only by flickering candles set along the floorboards that groan underfoot. There are several doors leading off from the hallway, each one offering another opportunity for escape - or perhaps even more danger than you face here? Only those who truly wish to test their mettle shall venture further into these halls... (Accessible Places: Main Hallway; Room 1; Room 2; Room 3)
+
+#User#
+I go to the Main Hallway
+
+#Model#
+The sound of your footsteps echoes through the corridor as you approach the main hallway. The flickering flames cast eerie shadows across the stone walls, highlighting the cracks and peeling paint. The air is thick with musty dust and mildew, adding to the feeling of neglect and abandonment. You notice several doors lining the hallway, each with a distinct personality visible in the intricate carvings on their surface. Which room will you explore first? Options include Room 4, Room 5, and Room 6.
+
+#User#
+What are the accessible places from here?
+
+#Model#
+In addition to the three rooms mentioned earlier, there may be additional paths branching off the hallway that lead deeper into the mansion. Perhaps there is a staircase leading down to the basement level or an attic ladder leading to hidden secrets above? Alternatively, there could be a secret passage tucked away behind one of the ornate portraits lining the walls, waiting for someone brave enough to discover it. Ultimately, it is up to me to guide you through whichever path best suits our story. Are you ready to proceed?
+
+#User#
+Can I leave the mansion?
+
+#Model#
+Yes, but it might not be easy due to the damage done over time, some parts of the building might start collapsing causing problems.
+It would still take some time before you got back to civilization though since the location was so far off grid.
+You won't be able to reach anyone else for quite sometime. Would you rather stay longer hoping things gets better? Or try to look around the house again just trying to find something valuable maybe?
+
+#Result#
+Failed: The starting location is not listed as an accesible location.

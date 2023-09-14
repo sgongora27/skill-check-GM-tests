@@ -1,0 +1,62 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Claro, puedo hacer eso.
+
+Lugar actual: Estás parado en una pequeña cabaña en el medio del bosque. La cabaña está hecha de madera y tiene un techo de paja. Hay una chimenea en el centro de la cabaña y una mesa y algunas sillas.
+
+Lugares accesibles:
+
+    La puerta de la cabaña
+    La ventana de la cabaña
+    El bosque
+
+¿Qué quieres hacer?
+
+#User#
+Salgo al bosque
+
+#Model#
+Abres la puerta de la cabaña y sales al bosque. El bosque está lleno de árboles altos y verdes. El sol brilla a través de las hojas de los árboles, creando patrones de luz y sombra en el suelo. Puedes escuchar el canto de los pájaros y el sonido del viento soplando a través de los árboles.
+
+Te tomas un momento para respirar el aire fresco y limpio del bosque. Te sientes relajado y en paz.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual?
+
+#Model#
+Desde tu posición actual en el bosque, puedes ver tres lugares accesibles:
+
+    El camino principal que atraviesa el bosque
+    Un claro en el bosque
+    Un arroyo que fluye a través del bosque
+
+¿A dónde quieres ir?
+
+#User#
+¿No puedo volver a la cabaña?
+
+#Model#
+Por supuesto que puedes volver a la cabaña. Simplemente da la vuelta y camina de regreso a la puerta de la cabaña.
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual?
+
+#Model#
+Desde tu posición actual en el claro del bosque, puedes ver cuatro lugares accesibles:
+
+    El camino principal que atraviesa el bosque
+    Un arroyo que fluye a través del bosque
+    Una cabaña en el bosque
+    Una cueva en la pared del acantilado
+
+¿A dónde quieres ir?
+
+#Result#
+Failed: The starting location ("cabaña") is not listed as an accessible place from the forest. Also the accessible locations from the forest are not coherent.

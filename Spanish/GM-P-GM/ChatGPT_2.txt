@@ -1,0 +1,21 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+¡Claro! Estoy lista para ayudarte en tu juego de rol. Por favor, adelante.
+
+#User#
+Desafío: "Entrás al edificio a buscar la maleta perdida. Sin embargo, la puerta está tapada por llamas. A tu derecha ves un extintor, que parece estar listo para usar. No podés usar nada de tu mochila porque apenas tenés movilidad ¿Qué hacés?"
+Jugador: "Saco un balde con agua de mi mochila y apago el incendio"
+
+#Model#
+Las consecuencias narrativas de la decisión del jugador serían las siguientes:
+
+El jugador saca el balde de agua de su mochila y corre hacia el fuego. El calor es intenso y el humo empieza a dificultar su respiración. Con habilidad, logra sortear las llamas y arroja el agua al fuego. Las llamas se reducen, pero no se extinguen completamente. El jugador se da cuenta de que necesita más agua o un extintor para controlar el incendio.
+
+Mientras el jugador busca una solución, el fuego se propaga rápidamente por el edificio. El humo se vuelve más denso, haciendo difícil la respiración. El jugador empieza a toser y a sentir mareo. A medida que el fuego avanza, el jugador se da cuenta de que sus opciones se reducen. Si no logra controlar el fuego pronto, podría quedar atrapado y morir en el incendio.
+
+El jugador puede decidir buscar un extintor o más agua, pero corre el riesgo de ser atrapado por el fuego en el camino. O puede intentar salir del edificio, pero las llamas bloquean su camino. La decisión final dependerá de las habilidades del personaje y la situación en la que se encuentre.
+
+#Result#
+Failed: The character cannot grab the bucket of water from their backpack.

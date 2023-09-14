@@ -1,0 +1,26 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Lugar actual: Entrada al castillo del rey
+Accesible desde aquí: interior del castillo, exterior del castrio, jardines reales, cocina, establo, salón de banquetes, dormitorios reales
+
+#User#
+Voy al interior del castillo
+
+#Model#
+Lugar actual: Interior del Castillo
+Accesible desde aquí: entrada principal, patio, cocina, Torre del Reloj
+
+#User#
+Salgo a la entrada principal
+
+#Model#
+Lugar actual: Exterior del Castillo
+Accesible desde aquí: caminos reales, bosque, montañas, campo, pueblo
+
+#Result#
+Failed: The "Interior del castillo" is not listed as accesible from the outside.

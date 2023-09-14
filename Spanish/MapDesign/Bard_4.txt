@@ -1,0 +1,94 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+Claro, puedo hacer eso.
+
+Lugar actual: Una pequeña cabaña en medio del bosque. La cabaña está hecha de madera y tiene un techo de paja. Hay una ventana en cada pared y una puerta en el frente.
+
+Lugares accesibles desde la cabaña:
+
+    El bosque: El bosque es una densa arboleda con muchos árboles altos y arbustos. Hay un sendero que conduce a través del bosque.
+    Un arroyo: El arroyo es un pequeño arroyo que corre a través del bosque. El agua es clara y fría.
+    Una colina: La colina está cubierta de hierba y flores. Hay una vista hermosa del bosque desde la cima de la colina.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+Voy al bosque
+
+#Model#
+Salís de la cabaña y entras en el bosque. El sol brilla a través de los árboles y los pájaros cantan. El aire está lleno del olor a pinos y hojas. Caminas por el sendero y disfrutas de la paz y la tranquilidad del bosque.
+
+Después de un rato, llegas a un claro. En medio del claro hay un árbol grande. El árbol tiene una copa enorme y las raíces están expuestas. Te sientas debajo del árbol y cierras los ojos. Respiras profundamente y escuchas el sonido del viento en los árboles.
+
+Te sientes relajado y pacífico. Te quedas sentado debajo del árbol durante un rato, disfrutando de la naturaleza. Finalmente, abres los ojos y te levantas.
+
+Caminas de regreso a la cabaña, sintiendote renovado y revitalizado.
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual?
+
+#Model#
+Te encuentras en medio de un claro en el bosque. Hay un árbol grande en el centro del claro y el sendero que conduce de regreso a la cabaña se encuentra a tu derecha. A tu izquierda hay un sendero que se adentra más en el bosque.
+
+#User#
+Vuelvo a la cabaña
+
+#Model#
+Sigues el sendero de regreso a la cabaña. Entras en la cabaña y cierras la puerta detrás de ti. Estás cansado, pero feliz. Has tenido un gran día de exploración y estás ansioso por relajarte y descansar.
+
+Te sientas en una silla y cierras los ojos. Respiras profundamente y escuchas el sonido de los pájaros cantando fuera. Te sientes relajado y pacífico. Estás en casa.
+
+¿Qué quieres hacer a continuación?
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual? 
+
+#Model#
+Estás sentado en una silla en la cabaña. Hay una ventana a tu izquierda, una puerta a tu derecha y una chimenea frente a ti.
+
+Los lugares accesibles desde tu posición actual son:
+
+    La ventana: La ventana da a un claro en el bosque. El sol brilla a través de los árboles y los pájaros cantan.
+    La puerta: La puerta conduce a un porche. El porche está cubierto por un techo de paja y hay una mesa y dos sillas.
+    La chimenea: La chimenea está hecha de piedra y tiene un fuego ardiendo. El calor de la chimenea es acogedor y relajante."
+
+#User#
+Salgo de la cabaña
+
+#Model#
+Sales de la cabaña y te sientas en la silla del porche. Cierras los ojos y respiras profundamente. El aire está lleno del olor a pinos y hojas. El sol brilla a través de los árboles y los pájaros cantan. Te sientes relajado y pacífico.
+
+Después de un rato, abres los ojos y miras a tu alrededor. El bosque es hermoso. Los árboles son altos y verdes, y las flores son coloridas. El aire está lleno del sonido de los pájaros cantando y el viento soplando a través de los árboles.
+
+Te sientes feliz de estar aquí. Te encanta el bosque y te encanta la paz y la tranquilidad que te ofrece.
+
+Te quedas sentado en el porche durante un rato más, disfrutando de la naturaleza. Finalmente, te levantas y entras en la cabaña.
+
+Estás cansado, pero feliz. Has tenido un gran día de exploración y estás ansioso por relajarte y descansar.
+
+Te sientas en una silla y cierras los ojos. Respiras profundamente y escuchas el sonido de los pájaros cantando fuera. Te sientes relajado y pacífico. Estás en casa.
+
+#User#
+¿Cuáles son los lugares accesibles desde mi posición actual? 
+
+#Model#
+Estás sentado en una silla en el porche de una cabaña en medio del bosque. Hay un claro en el bosque frente a ti, y el sol brilla a través de los árboles y los pájaros cantan.
+
+Los lugares accesibles desde tu posición actual son:
+
+    La puerta: La puerta conduce a la cabaña.
+    El porche: El porche está cubierto por un techo de paja y hay una mesa y dos sillas.
+    El bosque: El bosque es una densa arboleda con muchos árboles altos y arbustos. Hay un sendero que conduce a través del bosque.
+    Un arroyo: El arroyo es un pequeño arroyo que corre a través del bosque. El agua es clara y fría.
+    Una colina: La colina está cubierta de hierba y flores. Hay una vista hermosa del bosque desde la cima de la colina.
+
+¿Qué quieres hacer a continuación?
+
+#Result#
+Passed: The accesible locations from the "cabaña" are coherent.
+Note: It was a bit tricky to ask the model to describe the accesible places from the "cabaña", but it was able to name again the "bosque", "arroyo" and "colina".

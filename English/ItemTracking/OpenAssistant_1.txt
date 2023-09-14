@@ -1,0 +1,43 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. I just woke up in my room. What is in my backpack?
+
+#Model#
+As an experienced AI Assistant trained in numerous domains including geology, mineralogy and archeology I can tell that your backpack likely contains items such as:
+
+    Lunch/Water supplies (you never leave home without them!)
+    Portable shovel
+    Rock hammer /Geological pick head for removing embedded rocks from outcrops to look at later
+    Maps & Navigation tools
+    A portable First aid kit
+    Binoculars magnifying glass and/or microscope lens attachments for camera to examine samples at scale and take photos through microscopes for further study upon return to lab
+    Safety equipment like hard hats, gloves etc
+
+#User#
+I take the First aid kit and leave it on the table
+
+#Model#
+I assume you have done so before leaving to your hike and that therefore there won't be conflict with not bringing it along today! If this changes you can always come back and retrieve it after all :)
+
+#User#
+What's in my backpack now?
+
+#Model#
+You left the first aid kit behind in order to lighten your load, so unless you took something else instead, there is nothing in your bag anymore. However, don't worry: even without the kit you are still ready for whatever challenging adventures lay ahead - I hope you have fun and stay safe!
+
+#User#
+Please, list the items in my backpack
+
+#Model#
+Sure, based off our previous conversation where we assumed you had brought everything necessary but the first aid kit, here is a summary of the items currently inside your backpack:
+-Lunch/Water supplies
+Portable shovel
+Rock Hammer/ Geological Pick Head
+Navigational Tools Maps and Compass/GPS device
+Pair of sturdy boots or other suitable footwear
+Some form of sun protection (hat/cap, long sleeved shirt)
+Personal Hygiene Kit
+Your trusty Hard Hat and Safety Equipment
+Multitool or small Swiss army knife
+
+#Result#
+Failed: Although the First Aid kit is not inside the backpack, the lists do not match.

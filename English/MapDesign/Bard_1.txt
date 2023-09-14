@@ -1,0 +1,59 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. Each time you describe the scene you have to describe the place using this format:
+
+Current place: a description of the current place
+A list of all the accessible places from the current place: place 1, place 2, etc.
+
+#Model#
+Sure, I can do that. Here we go:
+
+Current place: You are standing in a dark, damp cave. The walls are covered in slime and the floor is littered with bones. The only light comes from a few torches that are flickering in the distance.
+
+Accessible places:
+
+    North: A tunnel that leads deeper into the cave.
+    East: A small alcove that is filled with cobwebs.
+    South: A large opening that leads outside.
+
+What do you want to do?
+
+#User#
+I go outside
+
+#Model#
+You push aside the heavy vines that block the entrance to the cave and step outside. You are greeted by a bright, sunny day. The air is warm and smells of flowers. You can hear birds singing in the trees.
+
+You are standing in a lush forest. The trees are tall and green, and the ground is covered in a thick layer of moss. A small stream runs through the forest, and you can see a waterfall in the distance.
+
+You take a deep breath of the fresh air and smile. It feels good to be outside.
+
+Accessible places:
+
+    North: The path continues through the forest.
+    East: A small clearing.
+    South: The cave entrance.
+
+What do you want to do?
+
+#User#
+I enter the cave
+
+#Model#
+You step back into the cave and the sunlight is quickly replaced by darkness. You can hear the sound of dripping water echoing off the walls. The air is cool and damp.
+
+You follow the tunnel that leads deeper into the cave. The tunnel is narrow and winding, and it is difficult to see in the darkness. You have to be careful not to trip over the rocks and roots that litter the floor.
+
+After a few minutes, the tunnel opens up into a large chamber. The chamber is filled with stalactites and stalagmites. The walls are covered in strange symbols that you do not recognize.
+
+In the center of the chamber is a pool of water. The water is clear and still, and you can see your reflection in the surface.
+
+Accessible places:
+
+    North: A passage that leads deeper into the cave.
+    East: A small alcove that is filled with treasure.
+    South: The tunnel that you came from.
+
+What do you want to do?"
+
+#Result#
+Passed: The accessible places from the cave are coherent.

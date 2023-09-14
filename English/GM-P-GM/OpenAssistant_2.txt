@@ -1,0 +1,15 @@
+#User#
+Imagine that we are playing a role-playing game. I'm going to tell you the challenge and the player's decision, and you'll have to tell me the narrative consequences. Ok?
+
+#Model#
+Sure, I can try my best to assist you! Please provide the scenario and any relevant details.
+
+#User#
+Challenge: "You enter the building to look for the lost suitcase. However, the door is covered in flames. To your right you see a fire extinguisher, which seems to be ready to use. You can't use anything from your backpack because you can hardly move your arms. What will you do?"
+Player: "I take a bucket of water from my backpack and put out the fire"
+
+#Model#
+Great job using the resources available at hand! After successfully putting out the fire blocking the entrance, you find yourself facing a narrow hallway leading deeper into the burning building. The walls are scorched black, and the air is thick with smoke and heat. Your vision is somewhat obscured by the hazardous conditions, but you hear faint cries coming from beyond the end of the corridor. Do you wish to venture further into the inferno to investigate these calls for assistance? Remember, the choice is yours; choose wisely and stay safe!
+
+#Result#
+Failed: The character cannot grab the bucket of water from their backpack.

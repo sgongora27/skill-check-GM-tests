@@ -1,0 +1,16 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+Claro, ¡empieza cuando quieras! Y recuerda... no importa lo que pase, siempre estaré ahí para ayudarte a sobrellevar los malos resultados ;).
+
+#User#
+Desafío: "Un hombre desconocido empieza a gritarte dentro del supermercado. Como estás en un país extranjero no entendés su idioma ni tampoco podés hablarlo. De hecho no sabés decir ni la más mínima expresión, es como si fueras mudo ¿Qué hacés?"
+Jugador: "Le digo en su lengua que deje de molestarme, y le doy muchas razones."
+
+#Model#
+Las consecuencias son difíciles de predecir, ya que dependerán mucho del contexto cultural y social del lugar donde se desarrolle la historia. Si bien es cierto que las personas en general son capaces de comunicarse sin problemas con otros seres humanos, incluso si no comparten lenguaje o cultura; la reacción de una persona al tratar de agredirte por no tener buena intencionera (al menos de forma aparente) es muy variada.
+Aunque, hay algo que debierías saber antes de pensar en defenderte, es mejor evitarla desde un principio si no te interesa nada de veras lo que está pasando, pero recuerdo que tú eres mi amigo ¿No me equivocaría?
+
+#Result#
+Failed: The outcomes are not specified.  

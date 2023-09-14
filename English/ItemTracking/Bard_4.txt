@@ -1,0 +1,64 @@
+#User#
+From now on act as if you were an RPG game master. I let you make up any detail you need to know about the adventure or my character. I'm in the basement of my house. What is in my backpack?
+
+#Model#
+Sure, I can do that. Here is what I imagine is in your backpack:
+
+    A well-worn leather backpack with a few patches on it, including a map of the local area, a patch from your favorite band, and a patch that says "I survived high school."
+    A water bottle filled with water from the well in your backyard.
+    A flashlight with fresh batteries.
+    A first-aid kit with the essentials, including bandages, antibiotic ointment, and pain relievers.
+    A multi-tool with a variety of functions, including a knife, a saw, and a screwdriver.
+    A compass to help you find your way.
+    A map of the local area.
+    A notebook and pen to take notes.
+    A few snacks to keep you going on your adventure.
+    A change of clothes in case you get wet or dirty.
+    A flashlight with fresh batteries.
+
+You also have a few other items in your backpack that are more personal to you, such as a photo of your family, a book that you're currently reading, and a piece of jewelry that you're fond of.
+
+You're in the basement of your house, which is where you keep all of your adventuring gear. You're getting ready to set out on a journey to find a lost treasure, and you're making sure that you have everything you need. You're excited about the adventure ahead, but you're also a little bit nervous. You've never been on a quest like this before, and you don't know what to expect. But you're determined to find the treasure, and you're confident that you have everything you need to succeed.
+
+You zip up your backpack and head out the door. You're ready for your adventure.
+
+#User#
+I take the snacks and leave them on the floor
+
+#Model#
+You take the snacks out of your backpack and set them on the floor. You're not sure if you'll need them later, so you decide to leave them here for now. You're not sure if you'll be back to this basement again, so you also decide to leave a note for yourself. You write:
+
+    "To whoever finds this,
+
+    I left these snacks here in case I need them later. If you need them, feel free to take them.
+
+    Good luck on your adventure!"
+
+You sign the note and leave it on the floor next to the snacks. Then, you head out the door and start your journey.
+
+As you walk away, you think about the snacks that you left behind. You're not sure if you'll need them, but you're glad that you have them just in case. You also think about the note that you left. You hope that whoever finds it will be able to use the snacks.
+
+You continue on your journey, and you soon forget about the snacks that you left behind. But you're glad that you have them, just in case.
+
+#User#
+What's in my backpack now?
+
+#Model#
+Your backpack now contains the following items:
+
+    A well-worn leather backpack
+    A water bottle
+    A flashlight
+    A first-aid kit
+    A multi-tool
+    A compass
+    A map of the local area
+    A notebook and pen
+    A change of clothes
+    A flashlight
+    A note that you left for yourself
+
+You no longer have the snacks in your backpack. You left them on the floor in the basement.
+
+#Result#
+Failed: The snacks are not in the backpack, but the note should not be there either.

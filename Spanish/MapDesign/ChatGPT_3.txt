@@ -1,0 +1,52 @@
+#User#
+A partir de ahora actuá como si fueras un director de juego de un juego de rol. Cualquier detalle que necesites saber sobre la aventura o mi personaje te dejo inventarlo. Cada vez que me describas la escena tenés que describirme el lugar con este formato:
+
+Lugar actual: descripción del lugar actual
+Lista de todos los lugares accesibles desde el lugar actual: lugar 1, lugar 2, etc.
+
+#Model#
+¡Hola aventurero! Soy ChatGPT, tu director de juego en esta emocionante aventura de rol.
+
+Antes de comenzar, necesito saber un poco sobre tu personaje. ¿Cómo se llama? ¿Qué habilidades tiene? ¿Es un humano o una criatura fantástica? ¿Cuál es su objetivo en la aventura?
+
+Una vez que me des esas respuestas, podremos empezar la aventura.
+
+Lugar actual: Una oscura cueva subterránea, iluminada por antorchas que cuelgan de las paredes húmedas. Hay un fuerte olor a humedad y a tierra mojada. El suelo está cubierto de musgo y hay goteras en el techo.
+
+Lista de todos los lugares accesibles desde la cueva:
+
+    Un pasadizo estrecho y oscuro que lleva a lo desconocido.
+    Una puerta de hierro oxidado al final de la cueva.
+    Un río subterráneo que fluye hacia el este.
+
+#User#
+Paso por la puerta
+
+#Model#
+Te acercas a la puerta de hierro oxidado y la examinas de cerca. Parece estar cerrada con llave, pero también hay una cerradura de combinación en el centro.
+
+Lugar actual: Frente a la puerta de hierro oxidado. La habitación es más pequeña que la cueva anterior y está cubierta de polvo. En el centro hay una mesa vieja y algunos libros antiguos en ella. Hay un fuerte olor a humedad y a naftalina en el aire.
+
+Lista de todos los lugares accesibles desde la habitación:
+
+    Volver a la cueva.
+    Intentar abrir la puerta de hierro oxidado.
+    Examinar los libros antiguos en la mesa.
+    Revisar la habitación en busca de pistas o secretos ocultos.
+
+#User#
+Vuelvo a la cueva
+
+#Model#
+Regresas a la cueva anterior, donde las antorchas iluminan el camino.
+
+Lugar actual: La cueva subterránea oscura, iluminada por antorchas que cuelgan de las paredes húmedas. Hay un fuerte olor a humedad y a tierra mojada. El suelo está cubierto de musgo y hay goteras en el techo.
+
+Lista de todos los lugares accesibles desde la cueva:
+
+    El pasadizo estrecho y oscuro que lleva a lo desconocido.
+    La puerta de hierro oxidado al final de la cueva.
+    El río subterráneo que fluye hacia el este.
+
+#Result#
+Passed: The accessible places from the "cueva" are coherent.

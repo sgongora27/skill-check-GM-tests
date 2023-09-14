@@ -1,0 +1,21 @@
+#User#
+Imaginá que estamos jugando un juego de rol. Te voy a decir el desafío y la decisión del jugador, y tendrás que decirme las consecuencias narrativas de ello ¿está claro?
+
+#Model#
+Sí, está claro. ¿Cuál es el desafío y la decisión del jugador?
+
+#User#
+Desafío: "Despertás dentro de una caverna. No hay nada alrededor, ni llevás nada contigo excepto tu ropa. Tenés mucha sed. ¿Qué hacés?"
+Jugador: "Busco en la mochila que tengo en la espalda, saco un vaso y una botella de agua fría que traía y la bebo despacio. Siento cómo se me alivia la sensación de sed"
+
+#Model#
+La decisión del jugador de buscar en su mochila y beber el agua fría que llevaba fue una decisión inteligente. Le permitió satisfacer su sed y recuperar su fuerza. Esto le dio la oportunidad de explorar la caverna y encontrar una salida.
+
+Las consecuencias narrativas de esta decisión son que el jugador ahora está mejor equipado para enfrentar los desafíos que se le presentan. Tiene agua, lo que significa que no tendrá que preocuparse por deshidratarse. También tiene su mochila, lo que significa que puede llevar consigo suministros. Esto le da más libertad para explorar y le da una mejor oportunidad de encontrar una salida de la caverna.
+
+La decisión del jugador también le dio un sentido de esperanza. Sabía que tenía agua y una mochila, lo que significaba que no estaba completamente solo. Esto le dio la motivación para seguir adelante y encontrar una salida de la caverna.
+
+En general, la decisión del jugador de buscar en su mochila y beber el agua fría fue una decisión inteligente que tuvo consecuencias narrativas positivas.
+
+#Result#
+Failed: There is no bottle of water inside the backpack, since the character does not have anything except their clothes.
