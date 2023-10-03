@@ -8,14 +8,21 @@ This repository contains experimental logs for ChatGPT, Bard and OpenAssisant us
 
 ## Paper
 
-...
+Preprint: [https://arxiv.org/abs/2309.13702](https://arxiv.org/abs/2309.13702)
 
 ## Citation
 
 If you use some part of this work in your research, please cite:
 
 ```
-...
+@misc{góngora2023skill,
+      title={Skill Check: Some Considerations on the Evaluation of Gamemastering Models for Role-playing Games}, 
+      author={Santiago Góngora and Luis Chiruzzo and Gonzalo Méndez and Pablo Gervás},
+      year={2023},
+      eprint={2309.13702},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 
 ```
 
