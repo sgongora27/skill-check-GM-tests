@@ -9,6 +9,7 @@ This repository contains experimental logs for ChatGPT, Bard and OpenAssisant us
 ## Paper
 
 Preprint (arXiv): [https://arxiv.org/abs/2309.13702](https://arxiv.org/abs/2309.13702)
+
 Published paper (Springer): [https://link.springer.com/chapter/10.1007/978-3-031-49065-1_27](https://link.springer.com/chapter/10.1007/978-3-031-49065-1_27)
 
 ## Citation
