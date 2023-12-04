@@ -8,21 +8,36 @@ This repository contains experimental logs for ChatGPT, Bard and OpenAssisant us
 
 ## Paper
 
-Preprint: [https://arxiv.org/abs/2309.13702](https://arxiv.org/abs/2309.13702)
+Preprint (arXiv): [https://arxiv.org/abs/2309.13702](https://arxiv.org/abs/2309.13702)
+Published paper (Springer): [https://link.springer.com/chapter/10.1007/978-3-031-49065-1_27](https://link.springer.com/chapter/10.1007/978-3-031-49065-1_27)
 
 ## Citation
 
 If you use some part of this work in your research, please cite:
 
 ```
-@misc{góngora2023skill,
-      title={Skill Check: Some Considerations on the Evaluation of Gamemastering Models for Role-playing Games}, 
-      author={Santiago Góngora and Luis Chiruzzo and Gonzalo Méndez and Pablo Gervás},
-      year={2023},
-      eprint={2309.13702},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@InProceedings{10.1007/978-3-031-49065-1_27,
+author="G{\'o}ngora, Santiago
+and Chiruzzo, Luis
+and M{\'e}ndez, Gonzalo
+and Gerv{\'a}s, Pablo",
+editor="Dondio, Pierpaolo
+and Rocha, Mariana
+and Brennan, Attracta
+and Sch{\"o}nbohm, Avo
+and de Rosa, Francesca
+and Koskinen, Antti
+and Bellotti, Francesco",
+title="Skill Check: Some Considerations on the Evaluation of Gamemastering Models for Role-Playing Games",
+booktitle="Games and Learning Alliance",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="277--288",
+isbn="978-3-031-49065-1"
 }
+
+
 
 ```
 
